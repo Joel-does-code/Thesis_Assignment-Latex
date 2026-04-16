@@ -1,0 +1,122 @@
+\documentclass[a4paper, 12pt]{report}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{pdfpages}
+\usepackage{amsmath}   % for \text and many math helpers
+\usepackage{amssymb}   % for \therefore and other symbols
+\usepackage{enumerate}
+\usepackage{cancel}
+\usepackage{multicol}
+\usepackage{lipsum}
+\usepackage{pythonhighlight}
+\usepackage[margin=2cm]{geometry}
+\usepackage{titlesec}
+\usepackage{titling}
+\newcommand{\subtitle}[1]{%
+  \posttitle{%
+    \par\end{center}
+    \begin{center}\huge#1\end{center}
+    \vskip0.5em}%
+}
+\usepackage{fancyhdr}
+\usepackage{lastpage}   
+
+\makeatletter
+\renewcommand\chapter{%
+    \if@openright\cleardoublepage\else\clearpage\fi% a
+%   \thispagestyle{fancy} % not needed <<<<<
+    \global\@topnum\z@%
+    \@afterindentfalse%
+    \secdef\@chapter\@schapter}
+\makeatother
+
+\fancypagestyle{frontmatter}{% 
+    \fancyhf{}% clear previous definitions
+    \pagenumbering{roman}
+    \fancyfoot[R]{\thepage}
+}
+
+\fancypagestyle{mainmatter}{%
+    \fancyhf{}% clear previous definitions
+    \pagenumbering{arabic}
+    \fancyfoot[R]{Page \thepage\ of \pageref{LastPage}}
+}
+
+\renewcommand{\headrulewidth}{0pt}% no upper rule <<<<<
+%\renewcommand{\footrulewidth}{0.5pt}% optional foot rule <<<<<
+
+\newcommand{\sectionbreak}{\clearpage}
+\pdfminorversion=7
+\usepackage{hyperref}
+
+
+\title{GENG4411 Engineering Research Project Part 1 \\ Project Proposal}
+\subtitle{\textbf{Assessing climate injustice in the housing market}\vspace{2cm}}
+\author{\Large \textbf{Joel Wright}\\23783614\\School of Engineering, University of Western Australia\vspace{2cm}\\\Large \textbf{John Duncan}\\School of Agriculture and Environment, University of Western Australia}
+\date{\vfill
+\textbf{School of Engineering\\
+University of Western Australia\vspace{2cm}}
+\\April 2026}
+
+\begin{document}
+
+\pagenumbering{roman}
+\pagestyle{frontmatter}
+
+\maketitle
+\addcontentsline{toc}{chapter}{Title Page}
+\newpage
+
+\chapter*{Signed Declaration}
+% Add your signed declaration content here
+\addcontentsline{toc}{chapter}{Signed Declaration}
+\newpage
+
+\chapter*{Project Summary}
+% Add your project summary content here
+\addcontentsline{toc}{chapter}{Project Summary}
+\newpage
+
+\tableofcontents
+\addcontentsline{toc}{chapter}{Table of Contents}
+
+\listoffigures
+\addcontentsline{toc}{chapter}{List of Figures}
+
+\listoftables
+\addcontentsline{toc}{chapter}{List of Tables}
+
+\chapter*{Nomenclature}
+% Add your nomenclature content here
+\addcontentsline{toc}{chapter}{Nomenclature}
+\newpage
+
+\pagenumbering{arabic}
+\pagestyle{mainmatter}
+
+\chapter{Introduction, Literature Review and Project Objectives}
+\section{Introduction}
+\section{Literature Review (or Background)}
+\section{Project Objectives}
+Key discoveries that need to be made to prove/disprove the hypothesis
+
+Where this project fall in to literature (Currently there is lots of talk about both climate resilience and housing affordability, there is limited papers linking them (some talk about extreme whether events). This paper will drive a strong link for "normal conditions")
+\chapter{Project Process}
+\section{Modelling Investigations}
+Modelling investigations often include model derivation and then implementation using a software package or written code.  For modelling investigations this section might include:\begin{itemize}
+
+\item Model derivation (or modification) 
+\item A description and diagram of the model configuration
+\item A description of any software tools / platforms to be used and/or created and reason(s) for choice
+\item Descriptions of the model input options to be considered (boundary conditions, constitutive behaviours, etc)
+\item A description of any model validation tests that will be done, i.e., how will you check that your model is producing or will produce reliable and accurate results?
+\item What are the model’s limitations?
+\end{itemize}
+
+\chapter{Timeline and Risk Management}
+Identify critical paths and dominoes in it. 
+
+Risks - installing/removing sensors, reliance on additional (discretional) funding... 
+\chapter{Progress to Date}
+
+\chapter{References}
+\end{document}
