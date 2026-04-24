@@ -1,0 +1,40 @@
+# LaTeX intermediate files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.log
+*.nav
+*.out
+*.pdf
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.gz
+*.xdv
+*.synctex
+*.synctex(busy)
+
+# BibTeX and bibliography build artifacts
+*.bcf
+*.run.xml
+
+# Mac / Windows files
+.DS_Store
+Thumbs.db
+
+# Editor swap / backup files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.backup
+
+# VS Code folder settings
+.vscode/
