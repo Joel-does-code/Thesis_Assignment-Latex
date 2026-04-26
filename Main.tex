@@ -97,6 +97,15 @@ University of Western Australia\vspace{2cm}}
 
 \chapter{Introduction, Literature Review and Project Objectives}
 \section{Introduction}
+Following the onset of the pandemic, however, the Australian housing
+market began experiencing dramatic year-on-year growth, with Western Australia subsequently
+recording some of the most significant price increases nationwide \parencite{perth_market_growth}. This rapid escalation has generated widespread concern that housing availability will
+not keep pace with demand. As a result, many first-home buyers are committing to increasingly unaffordable loans- according to KPMG modelling, these loans are now being serviced by 31\% of household income, compared with 23\% in 2019/20 \parencite{KPMG2025}. Yet, even with many people maxing out their borrowing capacity, the types of houses they can afford may still be less than desirable. Perth, a hot city, will continue to experience warm summers, Figure \ref{2-week-average-summer-temp} compares the 5 most recent summers with all historical data. How Perth manages future heat stress is uncertain, and housing policy will be influential to an individual's heat exposure.  \begin{figure}[htbp!]
+    \centering
+    \includegraphics[height=0.5\textwidth]{2-week-average-summer-temp.png}
+    \caption{Rolling fortnightly averaged temperatures during Perth summer. Mean temperatures - including the hottest summer (2024) - given. Historical mean = $31.08^{\circ}$C\\ \rightline{Data from \cite{BOM_temps}}}
+    \label{2-week-average-summer-temp}
+\end{figure}
 \section{Literature Review (or Background)}
 A literature review will be conducted exploring four areas: \begin{enumerate}
 \item How built form responds to baseline and heatwave conditions, (determining whether to use a future climate model)
@@ -105,10 +114,21 @@ A literature review will be conducted exploring four areas: \begin{enumerate}
 \item The human response to thermal stress, (why should we care?)
 \end{enumerate}
 \subsection{How built form responds to baseline and heatwave conditions}
+Built form - the concentration of buildings, paved surfaces, and other anthropogenic materials within the urban environment - plays a central role in shaping local thermal conditions. When present at sufficient density, these materials contribute to the urban heat island (UHI) effect, as urban areas exhibit systematically higher temperatures than their surrounding rural or less-developed landscapes. In the natural environment, evapotranspiration from vegetation and exposed soils offer environmental cooling. Additionally, the increased heat load from airconditioning exhaust during these periods further contributes to UHI, however this will not be studied further in this project.
+
+In normal conditions, this phenomenon occurs as harsh surfaces with a high volumetric heat capacity like concrete, pavement, and bitumen shift the energy balance such that more heat is absorbed throughout the day \parencite{UHI}. Overnight, this thermal load is released back into the environment, leading to warmer nocturnal temperatures such that the UHI-heatwave interaction is strongest overnight \parencite{UHI_and_extremes}. During heatwaves, the geometries of urban areas further contribute to the entrapment of heat energy - the urban canopy decreases any atmospheric mixing \begin{figure}[htbp]
+    \centering
+    \includegraphics[height=0.5\textwidth]{Urban_canopy.png}
+    \caption{Flow regimes over urban canopy \\ \rightline{\parencite{urban-canopy-mixing}}}
+    \label{urban_canopy}
+\end{figure}
+
 \subsection{An appropriate methodology for determining air surface temperature and thermal comfort}
+
 \subsection{Property market trends}
+
 \subsection{The human response to thermal stress}
-The idea that the environment fundamentally influences the human experience and human behaviours has been circulating since Ancient Greece, Rome, and imperial China - Hippocrates argued that factors like climate and topology have a profound impact on the physiology and health of native peoples; Confucius believed in strong linkages between Heaven, Earth, and Humanity. The term "Environmental determinism", being the theory that the environment determines human culture; character; and societal development, is also prevalent in many 19th and 20th century schools of thought, even if not to the extent to which is was originally conceived as \parencite{Environmental_determinism}. It should be no surprise that extreme hot temperatures and heatwave cause exacerbated rates of heat stress and higher rates of mortality, in fact it is the number-one cause of weather-related deaths globally. In June-August of 2003, 70,000 people died in an European heatwave event \parencite{WHO}. The extent to which other humanitarian outcomes are also influenced by increased heat-exposure is discussed in 
+The idea that the environment fundamentally influences the human experience and human behaviours has been circulating since Ancient Greece, Rome, and imperial China - Hippocrates argued that factors like climate and topology have a profound impact on the physiology and health of native peoples; Confucius believed in strong linkages between Heaven, Earth, and Humanity. The term ``Environmental determinism", being the theory that the environment determines human culture; character; and societal development, is also prevalent in many 19th and 20th century schools of thought, even if not to the extent to which is was originally conceived \parencite{Environmental_determinism}. Therefore, it should be no surprise that extreme hot temperatures and heatwave cause exacerbated rates of heat stress and higher rates of mortality. In fact it is the number-one cause of weather-related deaths globally; In June-August of 2003, 70,000 people died in a European heatwave event \parencite{WHO}. The extent to which other human outcomes are also influenced by increased heat-exposure is discussed in \parencite{Social-economic} which cites many studies that have found some link between climate variables and social and economic outcomes - increased temperature correlates to increased instances of aggression and conflict (\cite{Hsiang2011-db}; \cite{climate-on-conflict}; \cite{temperature-temperament}; \cite{Crime-weather}); decreased mathematics testing performance (NOT TRUE FOR ENGLISH/READING) (\cite{child-test-scores}), and decreased labour performance in high-risk industries (defined as agriculture, forestry, fishing, and hunting; mining; construction; manufacturing; and transportation and utilities industries.) \parencite{temp-labour}; GDP, productivity and income (\cite{US-income}; \cite{Temp-GDP}; \cite{Temp-production}). While these studies don't have Perth or Australian regions of interest and one could argue that a Perth population must have some higher level of tolerance to heat exposure due to climate adaptation, \parencite{Adjusted-pops} found that mortality rates during days over $35^{\circ}$, the mortality rate increases in Cold, Temperate, and Hot climates.
 
 \section{Project Objectives}
 Key discoveries that need to be made to prove/disprove the hypothesis
@@ -132,7 +152,6 @@ Identify critical paths and dominoes in it.
 Risks - installing/removing sensors, reliance on additional (discretional) funding... 
 \chapter{Progress to Date}
 
-\chapter{References}
-% https://github.com/Joel-does-code/Thesis_Assignment-Latex/blob/main/Main.tex
+% https://github.com/Joel-does-code/Thesis_Assignment-Latex/blob/main
 \printbibliography
 \end{document}

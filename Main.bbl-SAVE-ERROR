@@ -1,0 +1,1557 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{temperature-temperament}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64843b627fcf30b240c6570df830054e}{%
+           family={Baylis},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64843b627fcf30b240c6570df830054e}
+      \strng{fullhash}{64843b627fcf30b240c6570df830054e}
+      \strng{fullhashraw}{64843b627fcf30b240c6570df830054e}
+      \strng{bibnamehash}{64843b627fcf30b240c6570df830054e}
+      \strng{authorbibnamehash}{64843b627fcf30b240c6570df830054e}
+      \strng{authornamehash}{64843b627fcf30b240c6570df830054e}
+      \strng{authorfullhash}{64843b627fcf30b240c6570df830054e}
+      \strng{authorfullhashraw}{64843b627fcf30b240c6570df830054e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How do people value their climate? This paper demonstrates a new approach to estimating preferences for nonmarket goods using social media data. I combine more than a billion Twitter updates with natural language processing algorithms to construct a rich panel dataset of expressed sentiment for the United States and six other English-speaking countries around the world. In the U.S., I find consistent and statistically significant declines in expressed sentiment from both hot and cold temperatures. To better understand how preferences may adapt, I document heterogeneity in both regional and seasonal responses. I complete the U.S. analysis with a suite of validation exercises to understand the magnitude of these effects and two methods to estimate willingness-to-pay for climate amenities. Finally, I document similar relationships between temperature and expressed sentiment for four out of the six non-U.S. countries I examine.}
+      \field{issn}{0047-2727}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{title}{Temperature and temperament: Evidence from Twitter}
+      \field{volume}{184}
+      \field{year}{2020}
+      \field{pages}{104161}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jpubeco.2020.104161
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0047272720300256
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0047272720300256
+      \endverb
+    \endentry
+    \entry{BOM_temps}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da7ced9523c968f6ea99a4196a90b882}{%
+           family={{Bureau of Meteorology}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Australian Government}%
+      }
+      \strng{namehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{fullhash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{fullhashraw}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{bibnamehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authorbibnamehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authornamehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authorfullhash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authorfullhashraw}{da7ced9523c968f6ea99a4196a90b882}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=009021}
+      \field{title}{Daily maximum temperature, Perth Airport}
+      \field{year}{2026}
+    \endentry
+    \entry{Temp-GDP}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cc8245e7c2a58c63604e2816e127e747}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Marshall},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14378045148a3551d5999a9b70b40ffe}{%
+           family={Miguel},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{ca175906b3eb0f9cbd34c66bf498b0fe}
+      \strng{fullhash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{fullhashraw}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{bibnamehash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{authorbibnamehash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{authornamehash}{ca175906b3eb0f9cbd34c66bf498b0fe}
+      \strng{authorfullhash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{authorfullhashraw}{ef393d41e2f467cb5c55a87f83ad45da}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{11}
+      \field{number}{7577}
+      \field{title}{Global non-linear effect of temperature on economic production}
+      \field{volume}{527}
+      \field{year}{2015}
+      \field{pages}{235\bibrangedash 239}
+      \range{pages}{5}
+    \endentry
+    \entry{Adjusted-pops}{article}{}{}
+      \name{author}{16}{}{%
+        {{un=1,uniquepart=given,hash=018534f758197968a8b7506e5afd1259}{%
+           family={Carleton},
+           familyi={C\bibinitperiod},
+           given={Tamma},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=ebc18fbce5ee96bcbbb0264c8a8fd5ff}{%
+           family={Jina},
+           familyi={J\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f16ab0909021bc30b4563eb4d6956894}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23e2201fd0a08bee5f8f929d238f6472}{%
+           family={Greenstone},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1936129a2f4d64b1c5f6439712cc2c45}{%
+           family={Houser},
+           familyi={H\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ea5cf7eb9e01013d277e8a0c5855194}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c98b376966766c3e05ce404c21e8e956}{%
+           family={Hultgren},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4391c3436abcd53bbd7c83a3a5021ceb}{%
+           family={Kopp},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddafad0766e37d7ca74b8821a07bad4f}{%
+           family={McCusker},
+           familyi={M\bibinitperiod},
+           given={Kelly\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd1f35afadd7e7fc3eb3ee53771b943e}{%
+           family={Nath},
+           familyi={N\bibinitperiod},
+           given={Ishan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67d7b2fbad3cb18760ce34cb797c49e3}{%
+           family={Rising},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=020712cb80f8a098be3293e9f042c195}{%
+           family={Rode},
+           familyi={R\bibinitperiod},
+           given={Ashwin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59b125d87dcbed2f1f88fac1053d4684}{%
+           family={Seo},
+           familyi={S\bibinitperiod},
+           given={Hee\bibnamedelima Kwon},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3d4816f43724e0aecaf2e934a1a7c98}{%
+           family={Viaene},
+           familyi={V\bibinitperiod},
+           given={Arvid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d66da39b62cada70c9632ce3c2fc395}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Jiacan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e742782a767fd6f83d50eefbe75bcee}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Alice\bibnamedelima Tianbo},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6cb2fe924e30d64264d337be205895b5}
+      \strng{fullhash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{fullhashraw}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{bibnamehash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{authorbibnamehash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{authornamehash}{6cb2fe924e30d64264d337be205895b5}
+      \strng{authorfullhash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{authorfullhashraw}{7c48a009b12e00504f86c0bf6c03abcd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Using 40 countries\textquoteright{} subnational data, we estimate age-specific mortality-temperature relationships and extrapolate them to countries without data today and into a future with climate change. We uncover a U-shaped relationship where extre6me cold and hot temperatures increase mortality rates, especially for the elderly. Critically, this relationship is flattened by higher incomes and adaptation to local climate. Using a revealed-preference approach to recover unobserved adaptation costs, we estimate that the mean global increase in mortality risk due to climate change, accounting for adaptation benefits and costs, is valued at roughly 3.2\% of global GDP in 2100 under a high-emissions scenario. Notably, today\textquoteright{}s cold locations are projected to benefit, while today\textquoteright{}s poor and hot locations have large projected damages. Finally, our central estimates indicate that the release of an additional ton of CO2 today will cause mortality-related damages of \$36.6 under a high-emissions scenario, with an interquartile range accounting for both econometric and climate uncertainty of [\textminus{}\$7.8, \$73.0]. These empirically grounded estimates exceed the previous literature\textquoteright{}s estimates by an order of magnitude.}
+      \field{issn}{0033-5533}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits*}
+      \field{volume}{137}
+      \field{year}{2022}
+      \field{pages}{2037\bibrangedash 2105}
+      \range{pages}{69}
+      \verb{doi}
+      \verb 10.1093/qje/qjac020
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/qje/article-pdf/137/4/2037/51054116/qjac020.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/qje/qjac020
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/qje/qjac020
+      \endverb
+    \endentry
+    \entry{Social-economic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=693adbc220a6e6a844134f11f9b49277}{%
+           family={Carleton},
+           familyi={C\bibinitperiod},
+           given={Tamma\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{fullhash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{fullhashraw}{946615655f55e6309ad3d05a29f06b54}
+      \strng{bibnamehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authorbibnamehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authornamehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authorfullhash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authorfullhashraw}{946615655f55e6309ad3d05a29f06b54}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{For centuries, thinkers have considered whether and how climatic conditions--such as temperature, rainfall, and violent storms--influence the nature of societies and the performance of economies. A multidisciplinary renaissance of quantitative empirical research is illuminating important linkages in the coupled climate-human system. We highlight key methodological innovations and results describing effects of climate on health, economics, conflict, migration, and demographics. Because of persistent "adaptation gaps," current climate conditions continue to play a substantial role in shaping modern society, and future climate changes will likely have additional impact. For example, we compute that temperature depresses current U.S. maize yields by ~48\%, warming since 1980 elevated conflict risk in Africa by ~11\%, and future warming may slow global economic growth rates by ~0.28 percentage points per year. In general, we estimate that the economic and social burden of current climates tends to be comparable in magnitude to the additional projected impact caused by future anthropogenic climate changes. Overall, findings from this literature point to climate as an important influence on the historical evolution of the global economy, they should inform how we respond to modern climatic conditions, and they can guide how we predict the consequences of future climate changes.}
+      \field{journaltitle}{Science}
+      \field{number}{6304}
+      \field{title}{Social and economic impacts of climate}
+      \field{volume}{353}
+      \field{year}{2016}
+      \field{pages}{aad9837}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/science.aad9837
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.aad9837
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aad9837
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aad9837
+      \endverb
+    \endentry
+    \entry{US-income}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=684704b0c69ed5b5bac03d67ab1abf46}{%
+           family={Deryugina},
+           familyi={D\bibinitperiod},
+           given={Tatyana},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{fullhash}{c57504d6294576fcc3627608d074ad26}
+      \strng{fullhashraw}{c57504d6294576fcc3627608d074ad26}
+      \strng{bibnamehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authorbibnamehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authornamehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authorfullhash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authorfullhashraw}{c57504d6294576fcc3627608d074ad26}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{number}{20750}
+      \field{series}{Working Paper Series}
+      \field{title}{Does the Environment Still Matter? Daily Temperature and Income in the United States}
+      \field{type}{Working Paper}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.3386/w20750
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w20750
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w20750
+      \endverb
+    \endentry
+    \entry{temp-labour}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=9f13fb0a3762e45ee3ae48841b41250f}{%
+           family={Graff\bibnamedelima Zivin},
+           familyi={G\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=21b9686c12f95056552baa3533508fa5}{%
+           family={Neidell},
+           familyi={N\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{fullhash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{fullhashraw}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{bibnamehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authorbibnamehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authornamehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authorfullhash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authorfullhashraw}{2f30d037054dc7ac8ec8afe9461b255c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We estimate the impacts of temperature on time allocation by exploiting plausibly exogenous variation in temperature over time within counties. Temperature increases at the higher end of the distribution reduce hours worked in industries with high exposure to climate and reduce time allocated to outdoor leisure for the nonemployed, with this time reallocated to indoor leisure. At the lower end of the distribution, time allocated to labor is nonresponsive to temperature increases, but outdoor leisure increases while indoor leisure decreases as temperature warms. We also find suggestive evidence of short-run adaptation to higher temperatures through temporal substitutions and acclimatization.}
+      \field{journaltitle}{Journal of Labor Economics}
+      \field{number}{1}
+      \field{title}{Temperature and the Allocation of Time: Implications for Climate Change}
+      \field{volume}{32}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 26}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1086/671766
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1086/671766
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1086/671766
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1086/671766
+      \endverb
+    \endentry
+    \entry{child-test-scores}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=380ade032bebf90380c503e86a52803a}{%
+           family={Graff\bibnamedelima Zivin},
+           familyi={G\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=1,
+           suffix={Joshua},
+           suffixi={J\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=668356f7d7d22b842c2fe9265fb36219}{%
+           family={Neidell},
+           familyi={N\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{6f5fde68a21a8403137a89b39041ef96}
+      \strng{fullhash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{fullhashraw}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{bibnamehash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{authorbibnamehash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{authornamehash}{6f5fde68a21a8403137a89b39041ef96}
+      \strng{authorfullhash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{authorfullhashraw}{b546b43f4606dea7443cc5153d9d04d9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Working Paper No. 21157 We provide the first estimates of the potential impact of climate change on human capital, focusing on the impacts from both short-run weather and long-run climate. Exploiting the longitudinal structure of the NLSY79 and random fluctuations in weather across interviews, we identify the effect of temperature in models with child-specific fixed effects. We find that short-run changes in temperature lead to statistically significant decreases in cognitive performance on math (but not reading) beyond 26C (78.8F). In contrast, our long-run analysis, which relies upon long-difference and rich cross-sectional models, reveals no statistically significant relationship between climate and human capital. This finding is consistent with the notion that adaptation, particularly compensatory behavior, plays a significant role in limiting the long run impacts from short run weather shocks.}
+      \field{journaltitle}{NBER Working Paper Series}
+      \field{note}{Copyright - Copyright National Bureau of Economic Research, Inc. May 2015; Document feature - Tables; ; Last updated - 2026-02-10}
+      \field{title}{Temperature and Human Capital in the Short- and Long-Run}
+      \field{year}{2015}
+      \field{pages}{21157}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.proquest.com/working-papers/temperature-human-capital-short-long-run/docview/1687949893/se-2
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/working-papers/temperature-human-capital-short-long-run/docview/1687949893/se-2
+      \endverb
+      \keyw{Business And Economics; Climate change; Effects; Temperature; Cognitive ability; Studies; Weather; Human capital; Energy economics; Economic growth; Adaptation; Behavior; Estimates; Longitudinal studies; Economic theory; 10.3386/w21157; 6100:Human resource planning; 9130:Experimental/theoretical; 1540:Pollution control}
+    \endentry
+    \entry{Environmental_determinism}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=025b1c8864a7024e9eea1a2a09de1e2e}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={Gerald\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{fullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{fullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{bibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authorbibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authornamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authorfullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authorfullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Environmental determinism}
+      \field{year}{2024}
+    \endentry
+    \entry{Hsiang2011-db}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39036241c6a815da753e00d9040c628b}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Kyle\bibnamedelima C},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=393a378684c3cbc002811213168f4664}{%
+           family={Cane},
+           familyi={C\bibinitperiod},
+           given={Mark\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{fullhash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{fullhashraw}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{bibnamehash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{authorbibnamehash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{authornamehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{authorfullhash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{authorfullhashraw}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It has been proposed that changes in global climate have been responsible for episodes of widespread violence and even the collapse of civilizations. Yet previous studies have not shown that violence can be attributed to the global climate, only that random weather events might be correlated with conflict in some cases. Here we directly associate planetary-scale climate changes with global patterns of civil conflict by examining the dominant interannual mode of the modern climate, the El Ni\~{n}o/Southern Oscillation (ENSO). Historians have argued that ENSO may have driven global patterns of civil conflict in the distant past, a hypothesis that we extend to the modern era and test quantitatively. Using data from 1950 to 2004, we show that the probability of new civil conflicts arising throughout the tropics doubles during El Ni\~{n}o years relative to La Ni\~{n}a years. This result, which indicates that ENSO may have had a role in 21\% of all civil conflicts since 1950, is the first demonstration that the stability of modern societies relates strongly to the global climate.}
+      \field{journaltitle}{Nature}
+      \field{month}{8}
+      \field{number}{7361}
+      \field{title}{Civil conflicts are associated with the global climate}
+      \field{volume}{476}
+      \field{year}{2011}
+      \field{pages}{438\bibrangedash 441}
+      \range{pages}{4}
+    \endentry
+    \entry{climate-on-conflict}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc8245e7c2a58c63604e2816e127e747}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Marshall},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14378045148a3551d5999a9b70b40ffe}{%
+           family={Miguel},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{fullhash}{6bc126099407023129823644f7d6abb2}
+      \strng{fullhashraw}{6bc126099407023129823644f7d6abb2}
+      \strng{bibnamehash}{6bc126099407023129823644f7d6abb2}
+      \strng{authorbibnamehash}{6bc126099407023129823644f7d6abb2}
+      \strng{authornamehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{authorfullhash}{6bc126099407023129823644f7d6abb2}
+      \strng{authorfullhashraw}{6bc126099407023129823644f7d6abb2}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Knowledge silos can hinder attempts to explore questions of interest across many disciplines. Hsiang et al. (p. 1235367, published online 1 August) provide a meta-analysis of data from disciplines as disparate as archaeology and psychology to examine the relation between climate and conflict. Overall, warmer temperatures or extremes of rainfall can be causally associated with changes in interpersonal violence and in civil war. Across disciplinary boundaries, recently published evidence links climate change to increased violent conflict. A rapidly growing body of research examines whether human conflict can be affected by climatic changes. Drawing from archaeology, criminology, economics, geography, history, political science, and psychology, we assemble and analyze the 60 most rigorous quantitative studies and document, for the first time, a striking convergence of results. We find strong causal evidence linking climatic events to human conflict across a range of spatial and temporal scales and across all major regions of the world. The magnitude of climate\textquoteright{}s influence is substantial: for each one standard deviation (1sigma) change in climate toward warmer temperatures or more extreme rainfall, median estimates indicate that the frequency of interpersonal violence rises 4\% and the frequency of intergroup conflict rises 14\%. Because locations throughout the inhabited world are expected to warm 2sigma to 4sigma by 2050, amplified rates of human conflict could represent a large and critical impact of anthropogenic climate change.}
+      \field{journaltitle}{Science}
+      \field{number}{6151}
+      \field{title}{Quantifying the Influence of Climate on Human Conflict}
+      \field{volume}{341}
+      \field{year}{2013}
+      \field{pages}{1235367}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1126/science.1235367
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.1235367
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.1235367
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.1235367
+      \endverb
+    \endentry
+    \entry{KPMG2025}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=877b533722efa3ba99bc7209b257d809}{%
+           family={{KPMG Australia}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {News Bites Pty Ltd.}%
+      }
+      \strng{namehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{fullhash}{877b533722efa3ba99bc7209b257d809}
+      \strng{fullhashraw}{877b533722efa3ba99bc7209b257d809}
+      \strng{bibnamehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authorbibnamehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authornamehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authorfullhash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authorfullhashraw}{877b533722efa3ba99bc7209b257d809}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{News Bites - Private Companies}
+      \field{title}{Twelve percent of homes in Australia affordable for the average first home buyer}
+      \field{year}{2025}
+    \endentry
+    \entry{perth_market_growth}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b33c2c5901ac4f4bcfd59d018300aacc}{%
+           family={{PropTrack}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{fullhash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{fullhashraw}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{bibnamehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authorbibnamehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authornamehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authorfullhash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authorfullhashraw}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Accessed 16-03-2026]}
+      \field{title}{PropTrack Home Price Index}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.proptrack.com.au/home-price-index/
+      \endverb
+      \verb{url}
+      \verb https://www.proptrack.com.au/home-price-index/
+      \endverb
+    \endentry
+    \entry{Crime-weather}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42950d629199de91a7dcbe8730e9e410}{%
+           family={Ranson},
+           familyi={R\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{fullhash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{fullhashraw}{42950d629199de91a7dcbe8730e9e410}
+      \strng{bibnamehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authorbibnamehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authornamehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authorfullhash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authorfullhashraw}{42950d629199de91a7dcbe8730e9e410}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper estimates the impact of climate change on the prevalence of criminal activity in the United States. The analysis is based on a 30-year panel of monthly crime and weather data for 2997 US counties. I identify the effect of weather on monthly crime by using a semi-parametric bin estimator and controlling for state-by-month and county-by-year fixed effects. The results show that temperature has a strong positive effect on criminal behavior, with little evidence of lagged impacts. Between 2010 and 2099, climate change will cause an additional 22,000 murders, 180,000 cases of rape, 1.2 million aggravated assaults, 2.3 million simple assaults, 260,000 robberies, 1.3 million burglaries, 2.2 million cases of larceny, and 580,000 cases of vehicle theft in the United States.}
+      \field{issn}{0095-0696}
+      \field{journaltitle}{Journal of Environmental Economics and Management}
+      \field{number}{3}
+      \field{title}{Crime, weather, and climate change}
+      \field{volume}{67}
+      \field{year}{2014}
+      \field{pages}{274\bibrangedash 302}
+      \range{pages}{29}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jeem.2013.11.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0095069613001289
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0095069613001289
+      \endverb
+      \keyw{Climate change,Crime,Weather}
+    \endentry
+    \entry{WHO}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bfa8c395ac070ea6cddc2077faf8215f}{%
+           family={{World Health Organisation}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{fullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{fullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{bibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorbibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authornamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorfullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorfullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health}
+      \field{note}{Accessed 2026-04-21}
+      \field{title}{Heat and health}
+      \field{year}{2024}
+    \endentry
+    \entry{Temp-production}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f189b293bd3263254702f8c5fe1d714b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{fullhash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{fullhashraw}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{bibnamehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authorbibnamehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authornamehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authorfullhash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authorfullhashraw}{f189b293bd3263254702f8c5fe1d714b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electron. J.}
+      \field{title}{Temperature and economic growth: New evidence from total factor productivity}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{temperature-temperament}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=64843b627fcf30b240c6570df830054e}{%
+           family={Baylis},
+           familyi={B\bibinitperiod},
+           given={Patrick},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{64843b627fcf30b240c6570df830054e}
+      \strng{fullhash}{64843b627fcf30b240c6570df830054e}
+      \strng{fullhashraw}{64843b627fcf30b240c6570df830054e}
+      \strng{bibnamehash}{64843b627fcf30b240c6570df830054e}
+      \strng{authorbibnamehash}{64843b627fcf30b240c6570df830054e}
+      \strng{authornamehash}{64843b627fcf30b240c6570df830054e}
+      \strng{authorfullhash}{64843b627fcf30b240c6570df830054e}
+      \strng{authorfullhashraw}{64843b627fcf30b240c6570df830054e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How do people value their climate? This paper demonstrates a new approach to estimating preferences for nonmarket goods using social media data. I combine more than a billion Twitter updates with natural language processing algorithms to construct a rich panel dataset of expressed sentiment for the United States and six other English-speaking countries around the world. In the U.S., I find consistent and statistically significant declines in expressed sentiment from both hot and cold temperatures. To better understand how preferences may adapt, I document heterogeneity in both regional and seasonal responses. I complete the U.S. analysis with a suite of validation exercises to understand the magnitude of these effects and two methods to estimate willingness-to-pay for climate amenities. Finally, I document similar relationships between temperature and expressed sentiment for four out of the six non-U.S. countries I examine.}
+      \field{issn}{0047-2727}
+      \field{journaltitle}{Journal of Public Economics}
+      \field{title}{Temperature and temperament: Evidence from Twitter}
+      \field{volume}{184}
+      \field{year}{2020}
+      \field{pages}{104161}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jpubeco.2020.104161
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0047272720300256
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0047272720300256
+      \endverb
+    \endentry
+    \entry{BOM_temps}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=da7ced9523c968f6ea99a4196a90b882}{%
+           family={{Bureau of Meteorology}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Australian Government}%
+      }
+      \strng{namehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{fullhash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{fullhashraw}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{bibnamehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authorbibnamehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authornamehash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authorfullhash}{da7ced9523c968f6ea99a4196a90b882}
+      \strng{authorfullhashraw}{da7ced9523c968f6ea99a4196a90b882}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.bom.gov.au/jsp/ncc/cdio/weatherData/av?p_nccObsCode=122&p_display_type=dailyDataFile&p_startYear=&p_c=&p_stn_num=009021}
+      \field{title}{Daily maximum temperature, Perth Airport}
+      \field{year}{2026}
+    \endentry
+    \entry{Temp-GDP}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cc8245e7c2a58c63604e2816e127e747}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Marshall},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14378045148a3551d5999a9b70b40ffe}{%
+           family={Miguel},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{ca175906b3eb0f9cbd34c66bf498b0fe}
+      \strng{fullhash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{fullhashraw}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{bibnamehash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{authorbibnamehash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{authornamehash}{ca175906b3eb0f9cbd34c66bf498b0fe}
+      \strng{authorfullhash}{ef393d41e2f467cb5c55a87f83ad45da}
+      \strng{authorfullhashraw}{ef393d41e2f467cb5c55a87f83ad45da}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{11}
+      \field{number}{7577}
+      \field{title}{Global non-linear effect of temperature on economic production}
+      \field{volume}{527}
+      \field{year}{2015}
+      \field{pages}{235\bibrangedash 239}
+      \range{pages}{5}
+    \endentry
+    \entry{Adjusted-pops}{article}{}{}
+      \name{author}{16}{}{%
+        {{un=1,uniquepart=given,hash=018534f758197968a8b7506e5afd1259}{%
+           family={Carleton},
+           familyi={C\bibinitperiod},
+           given={Tamma},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=ebc18fbce5ee96bcbbb0264c8a8fd5ff}{%
+           family={Jina},
+           familyi={J\bibinitperiod},
+           given={Amir},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f16ab0909021bc30b4563eb4d6956894}{%
+           family={Delgado},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23e2201fd0a08bee5f8f929d238f6472}{%
+           family={Greenstone},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1936129a2f4d64b1c5f6439712cc2c45}{%
+           family={Houser},
+           familyi={H\bibinitperiod},
+           given={Trevor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ea5cf7eb9e01013d277e8a0c5855194}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c98b376966766c3e05ce404c21e8e956}{%
+           family={Hultgren},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4391c3436abcd53bbd7c83a3a5021ceb}{%
+           family={Kopp},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima E},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ddafad0766e37d7ca74b8821a07bad4f}{%
+           family={McCusker},
+           familyi={M\bibinitperiod},
+           given={Kelly\bibnamedelima E},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd1f35afadd7e7fc3eb3ee53771b943e}{%
+           family={Nath},
+           familyi={N\bibinitperiod},
+           given={Ishan},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67d7b2fbad3cb18760ce34cb797c49e3}{%
+           family={Rising},
+           familyi={R\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=020712cb80f8a098be3293e9f042c195}{%
+           family={Rode},
+           familyi={R\bibinitperiod},
+           given={Ashwin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59b125d87dcbed2f1f88fac1053d4684}{%
+           family={Seo},
+           familyi={S\bibinitperiod},
+           given={Hee\bibnamedelima Kwon},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b3d4816f43724e0aecaf2e934a1a7c98}{%
+           family={Viaene},
+           familyi={V\bibinitperiod},
+           given={Arvid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d66da39b62cada70c9632ce3c2fc395}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Jiacan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e742782a767fd6f83d50eefbe75bcee}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Alice\bibnamedelima Tianbo},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6cb2fe924e30d64264d337be205895b5}
+      \strng{fullhash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{fullhashraw}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{bibnamehash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{authorbibnamehash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{authornamehash}{6cb2fe924e30d64264d337be205895b5}
+      \strng{authorfullhash}{7c48a009b12e00504f86c0bf6c03abcd}
+      \strng{authorfullhashraw}{7c48a009b12e00504f86c0bf6c03abcd}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Using 40 countries\textquoteright{} subnational data, we estimate age-specific mortality-temperature relationships and extrapolate them to countries without data today and into a future with climate change. We uncover a U-shaped relationship where extre6me cold and hot temperatures increase mortality rates, especially for the elderly. Critically, this relationship is flattened by higher incomes and adaptation to local climate. Using a revealed-preference approach to recover unobserved adaptation costs, we estimate that the mean global increase in mortality risk due to climate change, accounting for adaptation benefits and costs, is valued at roughly 3.2\% of global GDP in 2100 under a high-emissions scenario. Notably, today\textquoteright{}s cold locations are projected to benefit, while today\textquoteright{}s poor and hot locations have large projected damages. Finally, our central estimates indicate that the release of an additional ton of CO2 today will cause mortality-related damages of \$36.6 under a high-emissions scenario, with an interquartile range accounting for both econometric and climate uncertainty of [\textminus{}\$7.8, \$73.0]. These empirically grounded estimates exceed the previous literature\textquoteright{}s estimates by an order of magnitude.}
+      \field{issn}{0033-5533}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{month}{11}
+      \field{number}{4}
+      \field{title}{Valuing the Global Mortality Consequences of Climate Change Accounting for Adaptation Costs and Benefits*}
+      \field{volume}{137}
+      \field{year}{2022}
+      \field{pages}{2037\bibrangedash 2105}
+      \range{pages}{69}
+      \verb{doi}
+      \verb 10.1093/qje/qjac020
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/qje/article-pdf/137/4/2037/51054116/qjac020.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1093/qje/qjac020
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1093/qje/qjac020
+      \endverb
+    \endentry
+    \entry{Social-economic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=693adbc220a6e6a844134f11f9b49277}{%
+           family={Carleton},
+           familyi={C\bibinitperiod},
+           given={Tamma\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{fullhash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{fullhashraw}{946615655f55e6309ad3d05a29f06b54}
+      \strng{bibnamehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authorbibnamehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authornamehash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authorfullhash}{946615655f55e6309ad3d05a29f06b54}
+      \strng{authorfullhashraw}{946615655f55e6309ad3d05a29f06b54}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{For centuries, thinkers have considered whether and how climatic conditions--such as temperature, rainfall, and violent storms--influence the nature of societies and the performance of economies. A multidisciplinary renaissance of quantitative empirical research is illuminating important linkages in the coupled climate-human system. We highlight key methodological innovations and results describing effects of climate on health, economics, conflict, migration, and demographics. Because of persistent "adaptation gaps," current climate conditions continue to play a substantial role in shaping modern society, and future climate changes will likely have additional impact. For example, we compute that temperature depresses current U.S. maize yields by ~48\%, warming since 1980 elevated conflict risk in Africa by ~11\%, and future warming may slow global economic growth rates by ~0.28 percentage points per year. In general, we estimate that the economic and social burden of current climates tends to be comparable in magnitude to the additional projected impact caused by future anthropogenic climate changes. Overall, findings from this literature point to climate as an important influence on the historical evolution of the global economy, they should inform how we respond to modern climatic conditions, and they can guide how we predict the consequences of future climate changes.}
+      \field{journaltitle}{Science}
+      \field{number}{6304}
+      \field{title}{Social and economic impacts of climate}
+      \field{volume}{353}
+      \field{year}{2016}
+      \field{pages}{aad9837}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1126/science.aad9837
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.aad9837
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.aad9837
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.aad9837
+      \endverb
+    \endentry
+    \entry{US-income}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=684704b0c69ed5b5bac03d67ab1abf46}{%
+           family={Deryugina},
+           familyi={D\bibinitperiod},
+           given={Tatyana},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{fullhash}{c57504d6294576fcc3627608d074ad26}
+      \strng{fullhashraw}{c57504d6294576fcc3627608d074ad26}
+      \strng{bibnamehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authorbibnamehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authornamehash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authorfullhash}{c57504d6294576fcc3627608d074ad26}
+      \strng{authorfullhashraw}{c57504d6294576fcc3627608d074ad26}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{number}{20750}
+      \field{series}{Working Paper Series}
+      \field{title}{Does the Environment Still Matter? Daily Temperature and Income in the United States}
+      \field{type}{Working Paper}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.3386/w20750
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w20750
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w20750
+      \endverb
+    \endentry
+    \entry{temp-labour}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=9f13fb0a3762e45ee3ae48841b41250f}{%
+           family={Graff\bibnamedelima Zivin},
+           familyi={G\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=21b9686c12f95056552baa3533508fa5}{%
+           family={Neidell},
+           familyi={N\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{fullhash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{fullhashraw}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{bibnamehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authorbibnamehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authornamehash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authorfullhash}{2f30d037054dc7ac8ec8afe9461b255c}
+      \strng{authorfullhashraw}{2f30d037054dc7ac8ec8afe9461b255c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We estimate the impacts of temperature on time allocation by exploiting plausibly exogenous variation in temperature over time within counties. Temperature increases at the higher end of the distribution reduce hours worked in industries with high exposure to climate and reduce time allocated to outdoor leisure for the nonemployed, with this time reallocated to indoor leisure. At the lower end of the distribution, time allocated to labor is nonresponsive to temperature increases, but outdoor leisure increases while indoor leisure decreases as temperature warms. We also find suggestive evidence of short-run adaptation to higher temperatures through temporal substitutions and acclimatization.}
+      \field{journaltitle}{Journal of Labor Economics}
+      \field{number}{1}
+      \field{title}{Temperature and the Allocation of Time: Implications for Climate Change}
+      \field{volume}{32}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 26}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1086/671766
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1086/671766
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1086/671766
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1086/671766
+      \endverb
+    \endentry
+    \entry{child-test-scores}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=380ade032bebf90380c503e86a52803a}{%
+           family={Graff\bibnamedelima Zivin},
+           familyi={G\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=1,
+           suffix={Joshua},
+           suffixi={J\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=668356f7d7d22b842c2fe9265fb36219}{%
+           family={Neidell},
+           familyi={N\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{6f5fde68a21a8403137a89b39041ef96}
+      \strng{fullhash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{fullhashraw}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{bibnamehash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{authorbibnamehash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{authornamehash}{6f5fde68a21a8403137a89b39041ef96}
+      \strng{authorfullhash}{b546b43f4606dea7443cc5153d9d04d9}
+      \strng{authorfullhashraw}{b546b43f4606dea7443cc5153d9d04d9}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Working Paper No. 21157 We provide the first estimates of the potential impact of climate change on human capital, focusing on the impacts from both short-run weather and long-run climate. Exploiting the longitudinal structure of the NLSY79 and random fluctuations in weather across interviews, we identify the effect of temperature in models with child-specific fixed effects. We find that short-run changes in temperature lead to statistically significant decreases in cognitive performance on math (but not reading) beyond 26C (78.8F). In contrast, our long-run analysis, which relies upon long-difference and rich cross-sectional models, reveals no statistically significant relationship between climate and human capital. This finding is consistent with the notion that adaptation, particularly compensatory behavior, plays a significant role in limiting the long run impacts from short run weather shocks.}
+      \field{journaltitle}{NBER Working Paper Series}
+      \field{note}{Copyright - Copyright National Bureau of Economic Research, Inc. May 2015; Document feature - Tables; ; Last updated - 2026-02-10}
+      \field{title}{Temperature and Human Capital in the Short- and Long-Run}
+      \field{year}{2015}
+      \field{pages}{21157}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.proquest.com/working-papers/temperature-human-capital-short-long-run/docview/1687949893/se-2
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/working-papers/temperature-human-capital-short-long-run/docview/1687949893/se-2
+      \endverb
+      \keyw{Business And Economics; Climate change; Effects; Temperature; Cognitive ability; Studies; Weather; Human capital; Energy economics; Economic growth; Adaptation; Behavior; Estimates; Longitudinal studies; Economic theory; 10.3386/w21157; 6100:Human resource planning; 9130:Experimental/theoretical; 1540:Pollution control}
+    \endentry
+    \entry{Environmental_determinism}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=025b1c8864a7024e9eea1a2a09de1e2e}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={Gerald\bibnamedelima K.},
+           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{fullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{fullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{bibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authorbibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authornamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authorfullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \strng{authorfullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Environmental determinism}
+      \field{year}{2024}
+    \endentry
+    \entry{climate-on-conflict}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cc8245e7c2a58c63604e2816e127e747}{%
+           family={Burke},
+           familyi={B\bibinitperiod},
+           given={Marshall},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14378045148a3551d5999a9b70b40ffe}{%
+           family={Miguel},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{fullhash}{6bc126099407023129823644f7d6abb2}
+      \strng{fullhashraw}{6bc126099407023129823644f7d6abb2}
+      \strng{bibnamehash}{6bc126099407023129823644f7d6abb2}
+      \strng{authorbibnamehash}{6bc126099407023129823644f7d6abb2}
+      \strng{authornamehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{authorfullhash}{6bc126099407023129823644f7d6abb2}
+      \strng{authorfullhashraw}{6bc126099407023129823644f7d6abb2}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Knowledge silos can hinder attempts to explore questions of interest across many disciplines. Hsiang et al. (p. 1235367, published online 1 August) provide a meta-analysis of data from disciplines as disparate as archaeology and psychology to examine the relation between climate and conflict. Overall, warmer temperatures or extremes of rainfall can be causally associated with changes in interpersonal violence and in civil war. Across disciplinary boundaries, recently published evidence links climate change to increased violent conflict. A rapidly growing body of research examines whether human conflict can be affected by climatic changes. Drawing from archaeology, criminology, economics, geography, history, political science, and psychology, we assemble and analyze the 60 most rigorous quantitative studies and document, for the first time, a striking convergence of results. We find strong causal evidence linking climatic events to human conflict across a range of spatial and temporal scales and across all major regions of the world. The magnitude of climate\textquoteright{}s influence is substantial: for each one standard deviation (1sigma) change in climate toward warmer temperatures or more extreme rainfall, median estimates indicate that the frequency of interpersonal violence rises 4\% and the frequency of intergroup conflict rises 14\%. Because locations throughout the inhabited world are expected to warm 2sigma to 4sigma by 2050, amplified rates of human conflict could represent a large and critical impact of anthropogenic climate change.}
+      \field{journaltitle}{Science}
+      \field{number}{6151}
+      \field{title}{Quantifying the Influence of Climate on Human Conflict}
+      \field{volume}{341}
+      \field{year}{2013}
+      \field{pages}{1235367}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1126/science.1235367
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.1235367
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.1235367
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.1235367
+      \endverb
+    \endentry
+    \entry{Hsiang2011-db}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9c37f9be8b7b6442deeabe02fddb8480}{%
+           family={Hsiang},
+           familyi={H\bibinitperiod},
+           given={Solomon\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39036241c6a815da753e00d9040c628b}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Kyle\bibnamedelima C},
+           giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=393a378684c3cbc002811213168f4664}{%
+           family={Cane},
+           familyi={C\bibinitperiod},
+           given={Mark\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{fullhash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{fullhashraw}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{bibnamehash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{authorbibnamehash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{authornamehash}{77316ce0de2d08597b526ae9e38149f5}
+      \strng{authorfullhash}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \strng{authorfullhashraw}{11fed4dbdd24cd1f135a98be5e7fa4db}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It has been proposed that changes in global climate have been responsible for episodes of widespread violence and even the collapse of civilizations. Yet previous studies have not shown that violence can be attributed to the global climate, only that random weather events might be correlated with conflict in some cases. Here we directly associate planetary-scale climate changes with global patterns of civil conflict by examining the dominant interannual mode of the modern climate, the El Ni\~{n}o/Southern Oscillation (ENSO). Historians have argued that ENSO may have driven global patterns of civil conflict in the distant past, a hypothesis that we extend to the modern era and test quantitatively. Using data from 1950 to 2004, we show that the probability of new civil conflicts arising throughout the tropics doubles during El Ni\~{n}o years relative to La Ni\~{n}a years. This result, which indicates that ENSO may have had a role in 21\% of all civil conflicts since 1950, is the first demonstration that the stability of modern societies relates strongly to the global climate.}
+      \field{journaltitle}{Nature}
+      \field{month}{8}
+      \field{number}{7361}
+      \field{title}{Civil conflicts are associated with the global climate}
+      \field{volume}{476}
+      \field{year}{2011}
+      \field{pages}{438\bibrangedash 441}
+      \range{pages}{4}
+    \endentry
+    \entry{KPMG2025}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=877b533722efa3ba99bc7209b257d809}{%
+           family={{KPMG Australia}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {News Bites Pty Ltd.}%
+      }
+      \strng{namehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{fullhash}{877b533722efa3ba99bc7209b257d809}
+      \strng{fullhashraw}{877b533722efa3ba99bc7209b257d809}
+      \strng{bibnamehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authorbibnamehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authornamehash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authorfullhash}{877b533722efa3ba99bc7209b257d809}
+      \strng{authorfullhashraw}{877b533722efa3ba99bc7209b257d809}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{News Bites - Private Companies}
+      \field{title}{Twelve percent of homes in Australia affordable for the average first home buyer}
+      \field{year}{2025}
+    \endentry
+    \entry{perth_market_growth}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b33c2c5901ac4f4bcfd59d018300aacc}{%
+           family={{PropTrack}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{fullhash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{fullhashraw}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{bibnamehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authorbibnamehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authornamehash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authorfullhash}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \strng{authorfullhashraw}{b33c2c5901ac4f4bcfd59d018300aacc}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Accessed 16-03-2026]}
+      \field{title}{PropTrack Home Price Index}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.proptrack.com.au/home-price-index/
+      \endverb
+      \verb{url}
+      \verb https://www.proptrack.com.au/home-price-index/
+      \endverb
+    \endentry
+    \entry{Crime-weather}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42950d629199de91a7dcbe8730e9e410}{%
+           family={Ranson},
+           familyi={R\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{fullhash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{fullhashraw}{42950d629199de91a7dcbe8730e9e410}
+      \strng{bibnamehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authorbibnamehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authornamehash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authorfullhash}{42950d629199de91a7dcbe8730e9e410}
+      \strng{authorfullhashraw}{42950d629199de91a7dcbe8730e9e410}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper estimates the impact of climate change on the prevalence of criminal activity in the United States. The analysis is based on a 30-year panel of monthly crime and weather data for 2997 US counties. I identify the effect of weather on monthly crime by using a semi-parametric bin estimator and controlling for state-by-month and county-by-year fixed effects. The results show that temperature has a strong positive effect on criminal behavior, with little evidence of lagged impacts. Between 2010 and 2099, climate change will cause an additional 22,000 murders, 180,000 cases of rape, 1.2 million aggravated assaults, 2.3 million simple assaults, 260,000 robberies, 1.3 million burglaries, 2.2 million cases of larceny, and 580,000 cases of vehicle theft in the United States.}
+      \field{issn}{0095-0696}
+      \field{journaltitle}{Journal of Environmental Economics and Management}
+      \field{number}{3}
+      \field{title}{Crime, weather, and climate change}
+      \field{volume}{67}
+      \field{year}{2014}
+      \field{pages}{274\bibrangedash 302}
+      \range{pages}{29}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jeem.2013.11.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0095069613001289
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0095069613001289
+      \endverb
+      \keyw{Climate change,Crime,Weather}
+    \endentry
+    \entry{WHO}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bfa8c395ac070ea6cddc2077faf8215f}{%
+           family={{World Health Organisation}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{fullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{fullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{bibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorbibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authornamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorfullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorfullhashraw}{bfa8c395ac070ea6cddc2077faf8215f}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health}
+      \field{note}{Accessed 2026-04-21}
+      \field{title}{Heat and health}
+      \field{year}{2024}
+    \endentry
+    \entry{Temp-production}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f189b293bd3263254702f8c5fe1d714b}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Peng},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{fullhash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{fullhashraw}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{bibnamehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authorbibnamehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authornamehash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authorfullhash}{f189b293bd3263254702f8c5fe1d714b}
+      \strng{authorfullhashraw}{f189b293bd3263254702f8c5fe1d714b}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electron. J.}
+      \field{title}{Temperature and economic growth: New evidence from total factor productivity}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
