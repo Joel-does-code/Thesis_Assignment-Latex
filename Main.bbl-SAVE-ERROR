@@ -61,6 +61,229 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0047272720300256
       \endverb
     \endentry
+    \entry{heatwave-cooling}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1c8f9b567625612743d2aad14226dc10}{%
+           family={Broadbent},
+           familyi={B\bibinitperiod},
+           given={Ashley\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08b12663b6deca895725d96e23033bb9}{%
+           family={Coutts},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f815a173ae839e904b4ba36bd9b669a7}{%
+           family={Tapper},
+           familyi={T\bibinitperiod},
+           given={Nigel\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fb00de7b73964307224890e8e4c4a55}{%
+           family={Demuzere},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{fullhash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{fullhashraw}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{bibnamehash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{authorbibnamehash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{authornamehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{authorfullhash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{authorfullhashraw}{c11e366839c7d94aaacebbac6bdf33bb}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The emergence of integrated urban water management (IUWM), provides a unique opportunity for passive evaporative cooling of urban environments. This study investigates the potential of purposefully managed irrigation for cooling benefits in a suburb of Adelaide, Australia, where IUWM is widely adopted. SURFEX was used to simulate heatwave conditions across a suburban environment. Results from two simulation periods are presented: model validation period and a heatwave case study. Model validation suggests SURFEX can broadly capture the average intra-suburban diurnal air temperature variability, but not the average maxima and minima. A range of idealised irrigation scenarios were tested with different rates and timing of watering implemented. Clear evidence was found that irrigation reduces air temperature in urban environments. The diurnal average air temperature was reduced by up to 2.3\textdegree{}C. The cooling benefit of increasing irrigation was non-linear, with negligible additional cooling predicted above 20Lm\textminus{}2d\textminus{}1. The magnitude of cooling was proportional to the pervious (irrigated) fraction, meaning less cooling occurred in areas with greater urban development. Although irrigation increased humidity, it still improved outdoor human thermal comfort during heatwave conditions. IUWM approaches can provide an additional fit-for-purpose water supply to the urban environment, which should be utilised for cooling benefits.}
+      \field{issn}{2212-0955}
+      \field{journaltitle}{Urban Climate}
+      \field{note}{ICUC9: The 9th International Conference on Urban Climate}
+      \field{title}{The cooling effect of irrigation on urban microclimate during heatwave conditions}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{pages}{309\bibrangedash 329}
+      \range{pages}{21}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.uclim.2017.05.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2212095517300391
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2212095517300391
+      \endverb
+      \keyw{Urban microclimate,Water sensitive urban design,Integrated urban water management,Urban heat mitigation,Irrigation,Urban water cycle,TEB,SURFEX}
+    \endentry
+    \entry{TARGET}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=1c8f9b567625612743d2aad14226dc10}{%
+           family={Broadbent},
+           familyi={B\bibinitperiod},
+           given={Ashley\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08b12663b6deca895725d96e23033bb9}{%
+           family={Coutts},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22a6e3940a1642dea88dd645b8417ed}{%
+           family={Nice},
+           familyi={N\bibinitperiod},
+           given={Kerry\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fb00de7b73964307224890e8e4c4a55}{%
+           family={Demuzere},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38d409e158f20eedd5e3b2974819d397}{%
+           family={Krayenhoff},
+           familyi={K\bibinitperiod},
+           given={E\bibnamedelima Scott},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f815a173ae839e904b4ba36bd9b669a7}{%
+           family={Tapper},
+           familyi={T\bibinitperiod},
+           given={Nigel\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50a0e01dbee3087c25a50917655c4e3a}{%
+           family={Wouters},
+           familyi={W\bibinitperiod},
+           given={Hendrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Copernicus GmbH}%
+      }
+      \strng{namehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{fullhash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{fullhashraw}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{bibnamehash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{authorbibnamehash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{authornamehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{authorfullhash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{authorfullhashraw}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract. The adverse impacts of urban heat and global climate change are leading policymakers to consider green and blue infrastructure (GBI) for heat mitigation benefits. Though many models exist to evaluate the cooling impacts of GBI, their complexity and computational demand leaves most of them largely inaccessible to those without specialist expertise and computing facilities. Here a new model called The Air-temperature Response to Green/blue-infrastructure Evaluation Tool (TARGET) is presented. TARGET is designed to be efficient and easy to use, with fewer user-defined parameters and less model input data required than other urban climate models. TARGET can be used to model average street-level air temperature at canyon-to-block scales (e.g. 100 m resolution), meaning it can be used to assess temperature impacts of suburb-to-city-scale GBI proposals. The model aims to balance realistic representation of physical processes and computation efficiency. An evaluation against two different datasets shows that TARGET can reproduce the magnitude and patterns of both air temperature and surface temperature within suburban environments. To demonstrate the utility of the model for planners and policymakers, the results from two precinct-scale heat mitigation scenarios are presented. TARGET is available to the public, and ongoing development, including a graphical user interface, is planned for future work.}
+      \field{journaltitle}{Geosci. Model Dev.}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{The Air-temperature Response to Green/blue-infrastructure Evaluation Tool ({TARGET} v1.0): an efficient and user-friendly model of city cooling}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{785\bibrangedash 803}
+      \range{pages}{19}
+    \endentry
+    \entry{london-study}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=988ce8bc8a468a52f78b863659f44f4f}{%
+           family={Brousse},
+           familyi={B\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d050ae3c171dd1886817526114d5b27}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Dongyi},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f857d24f86a626db0ca23dc7fde5028}{%
+           family={Simpson},
+           familyi={S\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7de6f3d0163278817516e949a74365de}{%
+           family={Altamirano},
+           familyi={A\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cafc4b4404eed9187e7542a5b172565}{%
+           family={Stamp},
+           familyi={S\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e15a6830046cc1a46773553193a17ac5}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=564b551a067bd0c1e12434e4f26638fe}{%
+           family={Heaviside},
+           familyi={H\bibinitperiod},
+           given={Clare},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e94102f50968e967694ae69778dc748}
+      \strng{fullhash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{fullhashraw}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{bibnamehash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{authorbibnamehash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{authornamehash}{7e94102f50968e967694ae69778dc748}
+      \strng{authorfullhash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{authorfullhashraw}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ABSTRACT Urban sensor deserts call for a densification of weather sensor networks to provide climate information to local residents and decision-makers. We evaluated the usability of low-cost long-range communication weather sensors for urban microclimate studies. Focusing on the east of London, next to the Olympic Park, from the 20th of June 2024 to the 21st of June 2025, we showed that low-cost weather sensors can inform about existing climate differences between local heterogeneous urban environments. We found that the Olympic Park was cooler than surrounding neighbourhoods throughout the year and that greater differences were observed during the summer. Studied districts located further from the Olympic Park were warmer than the closest ones by 0.21\textdegree{}C on average. They were also hotter than the Olympic Park by 0.53\textdegree{}C on average, going up to 0.87\textdegree{}C during summer. This highlighted the benefits brought by parks in providing cooling to local populations. Districts with a greater presence of water bodies also experienced cooler conditions during the day and warmer during the night than their built-up counter parts. During winter and spring, several days had lower daily maxima than the local park in these districts with a higher proportion of water bodies, with cooling reaching down to ~2\textdegree{}C and with about 50\% of winter days observing cooling of ~0.5\textdegree{}C. Data from low-cost weather sensors should be carefully interpreted during cold seasons and during daytime hours due to the low accuracy of these sensors. Only ~30\%, ~10\%, and ~50\% of daily average differences to the Olympic Park fell outside of the range of uncertainty in autumn, winter, and spring, respectively. The yearly and seasonal temperature differences compared to the Olympic Park are, however, not caused by sensor errors. Observation of more complicated phenomena, like urban heat advection, remains challenging at local scales.}
+      \field{journaltitle}{Meteorological Applications}
+      \field{note}{e70112 MET-25-0055.R2}
+      \field{number}{6}
+      \field{title}{What Low-Cost Sensors Can Tell Us About Urban Microclimates: A Case Study Around London's Olympic Park}
+      \field{volume}{32}
+      \field{year}{2025}
+      \field{pages}{e70112}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/met.70112
+      \endverb
+      \verb{eprint}
+      \verb https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/met.70112
+      \endverb
+      \verb{urlraw}
+      \verb https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.70112
+      \endverb
+      \verb{url}
+      \verb https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.70112
+      \endverb
+      \keyw{Aranet,crowdsourcing,East London,low-cost sensor,urban microclimate,weather sensor}
+    \endentry
     \entry{BOM_temps}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=da7ced9523c968f6ea99a4196a90b882}{%
@@ -140,6 +363,34 @@
       \field{year}{2015}
       \field{pages}{235\bibrangedash 239}
       \range{pages}{5}
+    \endentry
+    \entry{BoM-guidelines}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7efca6b2de29a3b94109d03ff4179af}{%
+           family={Cantford},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{fullhash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{fullhashraw}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{bibnamehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authorbibnamehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authornamehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authorfullhash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authorfullhashraw}{f7efca6b2de29a3b94109d03ff4179af}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.bom.gov.au/climate/cdo/about/observation_specification_2013.pdf}}
+      \field{title}{Guidelines for the Siting and Exposure of Meteorological Instruments}
+      \field{year}{1997}
     \endentry
     \entry{Adjusted-pops}{article}{}{}
       \name{author}{16}{}{%
@@ -327,6 +578,92 @@
       \verb https://www.science.org/doi/abs/10.1126/science.aad9837
       \endverb
     \endentry
+    \entry{Fast-urban-climate-model-GBI}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cb530a0a3e5e01e38a2a5955a79c08ae}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jixuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23896ccc38c55d415a77ab80732c67e8}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Peter\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22a6e3940a1642dea88dd645b8417ed}{%
+           family={Nice},
+           familyi={N\bibinitperiod},
+           given={Kerry\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=105f3ba991b78ac47c930fd7bcbf017b}{%
+           family={Leit\~{a}o},
+           familyi={L\bibinitperiod},
+           given={Jo\~{a}o\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{828333597224aea1fc31e968ea5fbb1f}
+      \strng{fullhash}{67cda0880f38cce0a603284b26930a14}
+      \strng{fullhashraw}{67cda0880f38cce0a603284b26930a14}
+      \strng{bibnamehash}{67cda0880f38cce0a603284b26930a14}
+      \strng{authorbibnamehash}{67cda0880f38cce0a603284b26930a14}
+      \strng{authornamehash}{828333597224aea1fc31e968ea5fbb1f}
+      \strng{authorfullhash}{67cda0880f38cce0a603284b26930a14}
+      \strng{authorfullhashraw}{67cda0880f38cce0a603284b26930a14}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Problems caused by urban heat have prompted the exploration of urban greenery and blue spaces for heat mitigation. Various numerical models can simulate heat-related processes, but their use as support-tools to urban planners remains underexplored, particularly at the city-scale, due to high computational demand and complexity of such models. This study investigates the spatial relationships between urban heat, urban form and urban green and blue spaces with the fast climate model TARGET (The Air-temperature Response to Green/blue-infrastructure Evaluation Tool), which only requires minimal inputs of standard meteorological data, land cover and building geometry data. Using the City of Zurich as our case study, we: (i) validated the TARGET model against air temperature measurements from private sensor networks, (ii) performed a sensitivity analysis to identify key variables affecting urban heat, and (iii) investigated urban heat relationships with blue-green cover at locations frequented by pedestrians. Presence of urban green and blue spaces across the region shows potential for reducing local air temperatures by up to 5.2\x{00a0}\textdegree{}C (with urban forest). Investigating this relationship at different locations in the city revealed key districts that should potentially be targeted for reduction of pedestrian heat-impacts, due to their high pedestrian traffic, fewer green and blue spaces and high daytime air temperatures. Our results not only provide insights into the cooling effect of different amounts of green and blue features in the urban environment, but also demonstrates the application and integration potential of simplified models like TARGET to support the planning of more liveable future cities.}
+      \field{issn}{0048-9697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{Investigating the efficacy of a fast urban climate model for spatial planning of green and blue spaces for heat mitigation}
+      \field{volume}{955}
+      \field{year}{2024}
+      \field{pages}{176925}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scitotenv.2024.176925
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969724070827
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969724070827
+      \endverb
+      \keyw{Urban climate,Urban greenery,Green spaces,Blue spaces,Urban planning,Model-based planning-support,Crowd-sourced data,meteoblue,Netatmo,TARGET}
+    \endentry
+    \entry{Heat_stress_count}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2a1b3c0263d228c9deca9bd263bf35d}{%
+           family={{Climate Council}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{fullhash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{fullhashraw}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{bibnamehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authorbibnamehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authornamehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authorfullhash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authorfullhashraw}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.climatecouncil.org.au/resources/how-hot-will-your-neighbourhood-be-by-2050/}
+      \field{title}{How Hot Will Your Neighbourhood be by 2025}
+      \field{year}{2024}
+    \endentry
     \entry{US-income}{misc}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=684704b0c69ed5b5bac03d67ab1abf46}{%
@@ -375,6 +712,184 @@
       \verb{url}
       \verb http://www.nber.org/papers/w20750
       \endverb
+    \endentry
+    \entry{projection_of_heatwaves}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=5c4ae458e8f68c0d969e31b41bf48422}{%
+           family={Domeisen},
+           familyi={D\bibinitperiod},
+           given={Daniela\bibnamedelimb I\bibnamedelima V},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee18e432c042ccfc8e7b3ccc71213db4}{%
+           family={Eltahir},
+           familyi={E\bibinitperiod},
+           given={Elfatih\bibnamedelimb A\bibnamedelima B},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d840934352c748f67ecab0ff9b40043}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Erich\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8e5a46d9becbfa810b4bfb23a3d16b7}{%
+           family={Knutti},
+           familyi={K\bibinitperiod},
+           given={Reto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11b8b9f8eccb3be9545ca963f64e6e71}{%
+           family={Perkins-Kirkpatrick},
+           familyi={P\bibinithyphendelim K\bibinitperiod},
+           given={Sarah\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c23d11409632bcc45bef1f03349d81a}{%
+           family={Sch\"{a}r},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f869e16515fbd69dfdcd3d6d851d527a}{%
+           family={Seneviratne},
+           familyi={S\bibinitperiod},
+           given={Sonia\bibnamedelima I},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa607344dd81c9b4c2463dc34e78ff6e}{%
+           family={Weisheimer},
+           familyi={W\bibinitperiod},
+           given={Antje},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9056a9cf3fb9cc1b8d4d88fe5655d7f7}{%
+           family={Wernli},
+           familyi={W\bibinitperiod},
+           given={Heini},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{8b1e72f3fb36ac9f8b2c18bc3a614b49}
+      \strng{fullhash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{fullhashraw}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{bibnamehash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{authorbibnamehash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{authornamehash}{8b1e72f3fb36ac9f8b2c18bc3a614b49}
+      \strng{authorfullhash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{authorfullhashraw}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nat. Rev. Earth Environ.}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Prediction and projection of heatwaves}
+      \field{volume}{4}
+      \field{year}{2022}
+      \field{pages}{36\bibrangedash 50}
+      \range{pages}{15}
+    \endentry
+    \entry{agricDPIRDWeather}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=29e29040ca3e97b2466f0538ad34b4b9}{%
+           family={{DPIRD}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Western Australian Government}%
+      }
+      \strng{namehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{fullhash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{fullhashraw}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{bibnamehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authorbibnamehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authornamehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authorfullhash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authorfullhashraw}{29e29040ca3e97b2466f0538ad34b4b9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://weather.agric.wa.gov.au/map}}
+      \field{note}{[Accessed 28-04-2026]}
+      \field{title}{Weather Station Data Portal}
+      \field{year}{2026}
+    \endentry
+    \entry{LST_res}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8a7f2f5d5a9c1129818510492b914e6f}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1b64c69bfc08d90547f91cbb1f8fbd5}{%
+           family={Foody},
+           familyi={F\bibinitperiod},
+           given={Giles},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6afa96cded7d19577af74ca49735b511}{%
+           family={Aplin},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59eeb0da6b19dc8b14db2339d73a271d}{%
+           family={Gosling},
+           familyi={G\bibinitperiod},
+           given={Simon\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{564d2ed32c1e26d62a386d9e0bad0bc9}
+      \strng{fullhash}{8c6581051a70215fecc34b0915087d94}
+      \strng{fullhashraw}{8c6581051a70215fecc34b0915087d94}
+      \strng{bibnamehash}{8c6581051a70215fecc34b0915087d94}
+      \strng{authorbibnamehash}{8c6581051a70215fecc34b0915087d94}
+      \strng{authornamehash}{564d2ed32c1e26d62a386d9e0bad0bc9}
+      \strng{authorfullhash}{8c6581051a70215fecc34b0915087d94}
+      \strng{authorfullhashraw}{8c6581051a70215fecc34b0915087d94}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Land surface temperature (LST) is an important environmental variable for urban studies such as those focused on the urban heat island (UHI). Though satellite-derived LST could be a useful complement to traditional LST data sources, the spatial resolution of the thermal sensors limits the utility of remotely sensed thermal data. Here, a thermal sharpening technique is proposed which could enhance the spatial resolution of satellite-derived LST based on super-resolution mapping (SRM) and super-resolution reconstruction (SRR). This method overcomes the limitation of traditional thermal image sharpeners that require fine spatial resolution images for resolution enhancement. Furthermore, environmental studies such as UHI modelling typically use statistical methods which require the input variables to be independent, which means the input LST and other indices should be uncorrelated. The proposed Super-Resolution Thermal Sharpener (SRTS) does not rely on any surface index, ensuring the independence of the derived LST to be as independent as possible from the other variables that UHI modelling often requires. To validate the SRTS, its performance is compared against that of four popular thermal sharpeners: the thermal sharpening algorithm (TsHARP), adjusted stratified stepwise regression method (Stepwise), pixel block intensity modulation (PBIM), and emissivity modulation (EM). The privilege of using the combination of SRR and SRM was also verified by comparing the accuracy of SRTS with sharpening process only based on SRM or SRR. The results show that the SRTS can enhance the spatial resolution of LST with a magnitude of accuracy that is equal or even superior to other thermal sharpeners, even without requiring fine spatial resolution input. This shows the potential of SRTS for application in conditions where only limited meteorological data sources are available yet where fine spatial resolution LST is desirable.}
+      \field{issn}{2210-6707}
+      \field{journaltitle}{Sustainable Cities and Society}
+      \field{title}{Enhancing the spatial resolution of satellite-derived land surface temperature mapping for urban areas}
+      \field{volume}{19}
+      \field{year}{2015}
+      \field{pages}{341\bibrangedash 348}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scs.2015.04.007
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670715000475
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670715000475
+      \endverb
+      \keyw{Thermal sharpening,Urban heat island,Super-resolution mapping}
     \endentry
     \entry{temp-labour}{article}{}{}
       \name{author}{2}{}{%
@@ -482,32 +997,95 @@
       \endverb
       \keyw{Business And Economics; Climate change; Effects; Temperature; Cognitive ability; Studies; Weather; Human capital; Energy economics; Economic growth; Adaptation; Behavior; Estimates; Longitudinal studies; Economic theory; 10.3386/w21157; 6100:Human resource planning; 9130:Experimental/theoretical; 1540:Pollution control}
     \endentry
-    \entry{Environmental_determinism}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=025b1c8864a7024e9eea1a2a09de1e2e}{%
-           family={Harrison},
-           familyi={H\bibinitperiod},
-           given={Gerald\bibnamedelima K.},
-           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod},
+    \entry{LUMPS}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d532f1cc93dfd0b5d3bf1fbc024f3ce}{%
+           family={Grimmond},
+           familyi={G\bibinitperiod},
+           given={CSB},
+           giveni={C\bibinitperiod},
            givenun=0}}%
+        {{un=1,uniquepart=given,hash=f04a3a63fce9303ccf7cf0b6680f3b55}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={Timothy\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
       }
-      \strng{namehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{fullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{fullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{bibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authorbibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authornamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authorfullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authorfullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{fullhash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{fullhashraw}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{bibnamehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authorbibnamehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authornamehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authorfullhash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authorfullhashraw}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Environmental determinism}
-      \field{year}{2024}
+      \field{journaltitle}{Journal of Applied Meteorology}
+      \field{number}{7}
+      \field{title}{Turbulent heat fluxes in urban areas: Observations and a local-scale urban meteorological parameterization scheme (LUMPS)}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{pages}{792\bibrangedash 810}
+      \range{pages}{19}
+    \endentry
+    \entry{UHI_and_extremes}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ca2c149cdd360a6aba26cd14a492e069}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7272634a24a13bbe9cb83eaaa6f4226}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Xuhui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c6470d27b64b9ea1a2be699156e5dc4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Keer},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{6cf0580646e5f876addbd74d5520db5f}
+      \strng{fullhash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{fullhashraw}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{bibnamehash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{authorbibnamehash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{authornamehash}{6cf0580646e5f876addbd74d5520db5f}
+      \strng{authorfullhash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{authorfullhashraw}{32d96cb99e10b215a2b3762148e5f84b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Extreme heat waves (HWs), defined here as periods when daily maximum temperature exceeds the 98th percentile for three or more consecutive days, pose a significant threat to public health. The extreme heat risk is particularly relevant to urban residents due to the urban heat island (UHI) effect and its synergistic interactions with HWs in some cities. Previous research on the interactions between UHI and HWs has focused on a single city or region, and both positive and negative interactions have been reported. The global patterns of interactions between UHI and HWs across various climate backgrounds, as well as their underlying mechanisms, remain unclear. Here, we simulate the global urban heat island intensity (UHII) from 1985 to 2013 using the Community Land Model (CLM). By conducting a global-scale analysis of interactions between UHII and HWs, we diagnose their spatial and diurnal patterns across different regions and climate zones. To identify and explain the key contributors to the UHI-HW interactions, we employ machine learning models (CatBoost) and the SHapley Additive exPlanations (SHAP) framework to quantify the contributions of local energy flux, climate background, and land surface characteristics. UHI-HW interaction is quantified as the difference between UHII during heatwave (HW) days and non-heatwave (NHW) periods. We find that the UHI-HW interaction, which peaks at 6 AM local solar time (LT), is more positive at night than during the day. We identify net longwave radiation as a strong indicator of the interaction, while humidity emerges as a key driver, alongside contributions from sensible heat flux and wind speed. However, the influence of these factors varies across different K\"{o}ppen-Geiger climate zones. Our study provides new insights into the complex interaction between UHIs and heat waves, with implications for urban climate adaptation strategies in a warming world. The machine learning-based approach offers a novel method for attributing the spatial variability in UHI heat wave interactions to specific biophysical variables.}
+      \field{journaltitle}{Sci. Rep.}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Global spatiotemporal analysis of interactions between urban heat islands and extreme heat waves}
+      \field{volume}{16}
+      \field{year}{2026}
+      \keyw{Heat wave; Surface biophysical driver; Surface energy balance; Surface evaporation; Urban heat island}
     \endentry
     \entry{Hsiang2011-db}{article}{}{}
       \name{author}{3}{}{%
@@ -648,6 +1226,267 @@
       \field{booktitle}{News Bites - Private Companies}
       \field{title}{Twelve percent of homes in Australia affordable for the average first home buyer}
       \field{year}{2025}
+    \endentry
+    \entry{UHI}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=868513a33d62e48895489eec85300415}{%
+           family={Mohajerani},
+           familyi={M\bibinitperiod},
+           given={Abbas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1de8bfd9f6a70071828e649f923c1dd5}{%
+           family={Bakaric},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0438e958445d150ec52e8b3cd85bc8f4}{%
+           family={Jeffrey-Bailey},
+           familyi={J\bibinithyphendelim B\bibinitperiod},
+           given={Tristan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff79411e87eb0624665dbe05e7a05fe8}
+      \strng{fullhash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{fullhashraw}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{bibnamehash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{authorbibnamehash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{authornamehash}{ff79411e87eb0624665dbe05e7a05fe8}
+      \strng{authorfullhash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{authorfullhashraw}{bb3855f37f99a1f4d424990bc24d617d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Urban Heat Island (UHI) is a phenomenon that affects many millions of people worldwide. The higher temperatures experienced in urban areas compared to the surrounding countryside has enormous consequences for the health and wellbeing of people living in cities. The increased use of manmade materials and increased anthropogenic heat production are the main causes of the UHI. This has led to the understanding that increased urbanisation is the primary cause of the urban heat island. The UHI effect also leads to increased energy needs that further contribute to the heating of our urban landscape, and the associated environmental and public health consequences. Pavements and roofs dominate the urban surface exposed to solar irradiation. This review article outlines the contribution that pavements make to the UHI effect and analyses localized and citywide mitigation strategies against the UHI. Asphalt Concrete (AC) is one of the most common pavement surfacing materials and is a significant contributor to the UHI. Densely graded AC has low albedo and high volumetric heat capacity, which results in surface temperatures reaching upwards of 60\x{00a0}\textdegree{}C on hot summer days. Cooling the surface of a pavement by utilizing cool pavements has been a consistent theme in recent literature. Cool pavements can be reflective or evaporative. However, the urban geometry and local atmospheric conditions should dictate whether or not these mitigation strategies should be used. Otherwise both of these pavements can actually increase the UHI effect. Increasing the prevalence of green spaces through the installation of street trees, city parks and rooftop gardens has consistently demonstrated a reduction in the UHI effect. Green spaces also increase the cooling effect derived from water and wind sources. This literature review demonstrates that UHI mitigation techniques are best used in combination with each other. As a result of the study, it was concluded that the current mitigation measures need development to make them relevant to various climates and throughout the year. There are also many possible sources of future study, and alternative measures for mitigation have been described, thereby providing scope for future research and development following this review.}
+      \field{issn}{0301-4797}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{title}{The urban heat island effect, its causes, and mitigation, with reference to the thermal properties of asphalt concrete}
+      \field{volume}{197}
+      \field{year}{2017}
+      \field{pages}{522\bibrangedash 538}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jenvman.2017.03.095
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0301479717303201
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0301479717303201
+      \endverb
+      \keyw{Urban heat island,Asphalt concrete,Pavements,Urban heat island causes,Urban heat island consequences,Urban heat island mitigation measures}
+    \endentry
+    \entry{LST-TA}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=c8090e1be00d972ca6802e2b1a5411d8}{%
+           family={Naserikia},
+           familyi={N\bibinitperiod},
+           given={Marzie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c06230b6cdb499ff81651c5e92c4bcc}{%
+           family={Hart},
+           familyi={H\bibinitperiod},
+           given={Melissa\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9857acf789bc17765ee0a4f20663698}{%
+           family={Nazarian},
+           familyi={N\bibinitperiod},
+           given={Negin},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39d22995826fd91bf9b6a6e2dd215f64}{%
+           family={Bechtel},
+           familyi={B\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b1b80dbd15d31385bbb9bdff04a342b}{%
+           family={Lipson},
+           familyi={L\bibinitperiod},
+           given={Mathew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22a6e3940a1642dea88dd645b8417ed}{%
+           family={Nice},
+           familyi={N\bibinitperiod},
+           given={Kerry\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ee0073ed438d90a2c87c450e9684b9c}
+      \strng{fullhash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{fullhashraw}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{bibnamehash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{authorbibnamehash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{authornamehash}{0ee0073ed438d90a2c87c450e9684b9c}
+      \strng{authorfullhash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{authorfullhashraw}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Due to the scarcity of air temperature (Ta) observations, urban heat studies often rely on satellite-derived Land Surface Temperature (LST) to characterise the near-surface thermal environment. However, there remains a lack of a quantitative understanding on how LST differs from Ta within urban areas and what are the controlling factors of their interaction. We use crowdsourced air temperature measurements in Sydney, Australia, combined with urban landscape data, Local Climate Zones (LCZ), high-resolution satellite imagery, and machine learning to explore the influence of urban form and fabric on the interaction between Ta and LST. Results show that LST and Ta have distinct spatiotemporal characteristics, and their relationship differs by season, ecological infrastructure, and building morphology. We found greater seasonal variability in LST compared to Ta, along with more pronounced intra-urban spatial variability in LST, particularly in warmer seasons. We also observed a greater temperature difference between LST and Ta in the built environment compared to the natural LCZs, especially during warm days. Natural LCZs (areas with mostly dense and scattered trees) showed stronger LST-Ta relationships compared to built areas. In particular, we observe that built areas with higher building density (where the heat vulnerability is likely more pronounced) show insignificant or negative relationships between LST- Ta in summer. Our results also indicate that surface cover, distance from the ocean, and seasonality significantly influence the distribution of hot and cold spots for LST and Ta. The spatial distribution for Ta hot spots does not always overlap with LST. We find that relying solely on LST as a direct proxy for the urban thermal environment is inappropriate, particularly in densely built-up areas and during warm seasons. These findings provide new perspectives on the relationship between surface and canopy temperatures and how these relate to urban form and fabric.}
+      \field{issn}{0048-9697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{Land surface and air temperature dynamics: The role of urban form and seasonality}
+      \field{volume}{905}
+      \field{year}{2023}
+      \field{pages}{167306}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scitotenv.2023.167306
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969723059338
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969723059338
+      \endverb
+      \keyw{Air temperature,Land surface temperature,Crowdsourcing,Remote sensing,Land use data,Local climate zone,Urban heat}
+    \endentry
+    \entry{Climate-despair}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4925dd531bc32f7455112766cdfdd108}{%
+           family={Neale},
+           familyi={N\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b40752f1fe644845afda2ed9a8b1019f}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Maura\bibnamedelimb M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ff40ca05ea4ae6401eedb9d6b69421f}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25d32843f3dfcd223453fe2480746c5c}{%
+           family={Converse},
+           familyi={C\bibinitperiod},
+           given={Benjamin\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{fd1122e25fe26b363815e62a473cb8eb}
+      \strng{fullhash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{fullhashraw}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{bibnamehash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{authorbibnamehash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{authornamehash}{fd1122e25fe26b363815e62a473cb8eb}
+      \strng{authorfullhash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{authorfullhashraw}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate despair---a sense of hopelessness about humanity\textquoteright{}s ability to pursue a sustainable future---is emerging as a psychosocial threat. Psychological science conceptualizes hopelessness as a cognitive schema characterized by negative expectancies. Climate hopelessness, then, may be conceptualized as a mental model that represents climate change as a massive problem with futile response options. It manifests in negative expectancies about the future. Here we show that learning about eco-innovations---novel climate-response options---can decrease climate hopelessness. Across 11 experiments (N\x{2009}=\x{2009}3224), we found that adults (mostly from the USA) reported lower climate hopelessness after viewing videos that depicted eco-innovations (such as a high-tech, net-zero-energy city) than they did in various control conditions, including those that were unrelated to climate (such as a no-video control) and those that depicted more familiar, schema-consistent climate responses (such as living in a rural, intentional community). This research provides causal evidence that thinking about novel climate responses can contribute to a more hopeful outlook, and it identifies technological innovation as one possible seed for such messaging.}
+      \field{isbn}{01650009}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{12}
+      \field{note}{Copyright - {$\copyright$} The Author(s), under exclusive licence to Springer Nature B.V. 2023. Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law; Last updated - 2026-03-25; SubjectsTermNotLitGenreText - Environmental}
+      \field{number}{12}
+      \field{title}{Making people aware of eco-innovations can decrease climate despair}
+      \field{volume}{176}
+      \field{year}{2023}
+      \field{pages}{162}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.proquest.com/scholarly-journals/making-people-aware-eco-innovations-can-decrease/docview/2892416516/se-2
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/scholarly-journals/making-people-aware-eco-innovations-can-decrease/docview/2892416516/se-2
+      \endverb
+      \keyw{Meteorology; Climate; Climate change; Innovation; Cognitive ability; Climate models; Innovations; Net zero; Technological change; Clean technology; Environmental}
+    \endentry
+    \entry{netatmoWeathermap}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e79e953eedc962180e6dca02dfecaae7}{%
+           family={NETATMO},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{fullhash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{fullhashraw}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{bibnamehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authorbibnamehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authornamehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authorfullhash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authorfullhashraw}{e79e953eedc962180e6dca02dfecaae7}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://weathermap.netatmo.com/?stationid=70:ee:50:37:1e:18\&zoom=12.560861090870313}}
+      \field{note}{[Accessed 28-04-2026]}
+      \field{title}{{W}eathermap --- weathermap.netatmo.com}
+      \field{year}{2026}
+    \endentry
+    \entry{urban-canopy-mixing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=b137bc8a542aaa54a7b55ff8a729ff46}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={T.R.},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{fullhash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{fullhashraw}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{bibnamehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authorbibnamehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authornamehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authorfullhash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authorfullhashraw}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Planning is always involved in making choices between alternatives. In the case of designing for street climate the objectives may be mutually exclusive. For example, whilst open geometry is conducive to air pollution dispersion and solar access, a more densely clustered arrangement is favourable for shelter and energy conservation. This dilemma is investigated by reviewing the results of recent urban canyon field studies and of scale and mathematical modelling. By concentrating on quantifiable relations it appears that it may be possible to find a range of canyon geometries that are compatible with the apparently conflicting design objectives of mid-latitude cities. If this is correct, traditional European urban forms are climatically more favourable than more modern, especially North American, ones.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{number}{1}
+      \field{title}{Street design and urban canopy layer climate}
+      \field{volume}{11}
+      \field{year}{1988}
+      \field{pages}{103\bibrangedash 113}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0378-7788(88)90026-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0378778888900266
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0378778888900266
+      \endverb
     \endentry
     \entry{perth_market_growth}{online}{}{}
       \name{author}{1}{}{%
@@ -828,6 +1667,229 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0047272720300256
       \endverb
     \endentry
+    \entry{TARGET}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=1c8f9b567625612743d2aad14226dc10}{%
+           family={Broadbent},
+           familyi={B\bibinitperiod},
+           given={Ashley\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08b12663b6deca895725d96e23033bb9}{%
+           family={Coutts},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22a6e3940a1642dea88dd645b8417ed}{%
+           family={Nice},
+           familyi={N\bibinitperiod},
+           given={Kerry\bibnamedelima A},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fb00de7b73964307224890e8e4c4a55}{%
+           family={Demuzere},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38d409e158f20eedd5e3b2974819d397}{%
+           family={Krayenhoff},
+           familyi={K\bibinitperiod},
+           given={E\bibnamedelima Scott},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f815a173ae839e904b4ba36bd9b669a7}{%
+           family={Tapper},
+           familyi={T\bibinitperiod},
+           given={Nigel\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50a0e01dbee3087c25a50917655c4e3a}{%
+           family={Wouters},
+           familyi={W\bibinitperiod},
+           given={Hendrik},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Copernicus GmbH}%
+      }
+      \strng{namehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{fullhash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{fullhashraw}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{bibnamehash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{authorbibnamehash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{authornamehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{authorfullhash}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \strng{authorfullhashraw}{c3d3ec9924671ffedfad6022a1ec16b8}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract. The adverse impacts of urban heat and global climate change are leading policymakers to consider green and blue infrastructure (GBI) for heat mitigation benefits. Though many models exist to evaluate the cooling impacts of GBI, their complexity and computational demand leaves most of them largely inaccessible to those without specialist expertise and computing facilities. Here a new model called The Air-temperature Response to Green/blue-infrastructure Evaluation Tool (TARGET) is presented. TARGET is designed to be efficient and easy to use, with fewer user-defined parameters and less model input data required than other urban climate models. TARGET can be used to model average street-level air temperature at canyon-to-block scales (e.g. 100 m resolution), meaning it can be used to assess temperature impacts of suburb-to-city-scale GBI proposals. The model aims to balance realistic representation of physical processes and computation efficiency. An evaluation against two different datasets shows that TARGET can reproduce the magnitude and patterns of both air temperature and surface temperature within suburban environments. To demonstrate the utility of the model for planners and policymakers, the results from two precinct-scale heat mitigation scenarios are presented. TARGET is available to the public, and ongoing development, including a graphical user interface, is planned for future work.}
+      \field{journaltitle}{Geosci. Model Dev.}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{The Air-temperature Response to Green/blue-infrastructure Evaluation Tool ({TARGET} v1.0): an efficient and user-friendly model of city cooling}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{785\bibrangedash 803}
+      \range{pages}{19}
+    \endentry
+    \entry{heatwave-cooling}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1c8f9b567625612743d2aad14226dc10}{%
+           family={Broadbent},
+           familyi={B\bibinitperiod},
+           given={Ashley\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08b12663b6deca895725d96e23033bb9}{%
+           family={Coutts},
+           familyi={C\bibinitperiod},
+           given={Andrew\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f815a173ae839e904b4ba36bd9b669a7}{%
+           family={Tapper},
+           familyi={T\bibinitperiod},
+           given={Nigel\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fb00de7b73964307224890e8e4c4a55}{%
+           family={Demuzere},
+           familyi={D\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{fullhash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{fullhashraw}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{bibnamehash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{authorbibnamehash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{authornamehash}{2d6020634111288f315b06d7260fabf8}
+      \strng{authorfullhash}{c11e366839c7d94aaacebbac6bdf33bb}
+      \strng{authorfullhashraw}{c11e366839c7d94aaacebbac6bdf33bb}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The emergence of integrated urban water management (IUWM), provides a unique opportunity for passive evaporative cooling of urban environments. This study investigates the potential of purposefully managed irrigation for cooling benefits in a suburb of Adelaide, Australia, where IUWM is widely adopted. SURFEX was used to simulate heatwave conditions across a suburban environment. Results from two simulation periods are presented: model validation period and a heatwave case study. Model validation suggests SURFEX can broadly capture the average intra-suburban diurnal air temperature variability, but not the average maxima and minima. A range of idealised irrigation scenarios were tested with different rates and timing of watering implemented. Clear evidence was found that irrigation reduces air temperature in urban environments. The diurnal average air temperature was reduced by up to 2.3\textdegree{}C. The cooling benefit of increasing irrigation was non-linear, with negligible additional cooling predicted above 20Lm\textminus{}2d\textminus{}1. The magnitude of cooling was proportional to the pervious (irrigated) fraction, meaning less cooling occurred in areas with greater urban development. Although irrigation increased humidity, it still improved outdoor human thermal comfort during heatwave conditions. IUWM approaches can provide an additional fit-for-purpose water supply to the urban environment, which should be utilised for cooling benefits.}
+      \field{issn}{2212-0955}
+      \field{journaltitle}{Urban Climate}
+      \field{note}{ICUC9: The 9th International Conference on Urban Climate}
+      \field{title}{The cooling effect of irrigation on urban microclimate during heatwave conditions}
+      \field{volume}{23}
+      \field{year}{2018}
+      \field{pages}{309\bibrangedash 329}
+      \range{pages}{21}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.uclim.2017.05.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2212095517300391
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2212095517300391
+      \endverb
+      \keyw{Urban microclimate,Water sensitive urban design,Integrated urban water management,Urban heat mitigation,Irrigation,Urban water cycle,TEB,SURFEX}
+    \endentry
+    \entry{london-study}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=988ce8bc8a468a52f78b863659f44f4f}{%
+           family={Brousse},
+           familyi={B\bibinitperiod},
+           given={Oscar},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d050ae3c171dd1886817526114d5b27}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Dongyi},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f857d24f86a626db0ca23dc7fde5028}{%
+           family={Simpson},
+           familyi={S\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7de6f3d0163278817516e949a74365de}{%
+           family={Altamirano},
+           familyi={A\bibinitperiod},
+           given={Hector},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cafc4b4404eed9187e7542a5b172565}{%
+           family={Stamp},
+           familyi={S\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e15a6830046cc1a46773553193a17ac5}{%
+           family={Barrett},
+           familyi={B\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=564b551a067bd0c1e12434e4f26638fe}{%
+           family={Heaviside},
+           familyi={H\bibinitperiod},
+           given={Clare},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e94102f50968e967694ae69778dc748}
+      \strng{fullhash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{fullhashraw}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{bibnamehash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{authorbibnamehash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{authornamehash}{7e94102f50968e967694ae69778dc748}
+      \strng{authorfullhash}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \strng{authorfullhashraw}{afb1b18943bfbd6b9e1fc4ecfbaa4086}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ABSTRACT Urban sensor deserts call for a densification of weather sensor networks to provide climate information to local residents and decision-makers. We evaluated the usability of low-cost long-range communication weather sensors for urban microclimate studies. Focusing on the east of London, next to the Olympic Park, from the 20th of June 2024 to the 21st of June 2025, we showed that low-cost weather sensors can inform about existing climate differences between local heterogeneous urban environments. We found that the Olympic Park was cooler than surrounding neighbourhoods throughout the year and that greater differences were observed during the summer. Studied districts located further from the Olympic Park were warmer than the closest ones by 0.21\textdegree{}C on average. They were also hotter than the Olympic Park by 0.53\textdegree{}C on average, going up to 0.87\textdegree{}C during summer. This highlighted the benefits brought by parks in providing cooling to local populations. Districts with a greater presence of water bodies also experienced cooler conditions during the day and warmer during the night than their built-up counter parts. During winter and spring, several days had lower daily maxima than the local park in these districts with a higher proportion of water bodies, with cooling reaching down to ~2\textdegree{}C and with about 50\% of winter days observing cooling of ~0.5\textdegree{}C. Data from low-cost weather sensors should be carefully interpreted during cold seasons and during daytime hours due to the low accuracy of these sensors. Only ~30\%, ~10\%, and ~50\% of daily average differences to the Olympic Park fell outside of the range of uncertainty in autumn, winter, and spring, respectively. The yearly and seasonal temperature differences compared to the Olympic Park are, however, not caused by sensor errors. Observation of more complicated phenomena, like urban heat advection, remains challenging at local scales.}
+      \field{journaltitle}{Meteorological Applications}
+      \field{note}{e70112 MET-25-0055.R2}
+      \field{number}{6}
+      \field{title}{What Low-Cost Sensors Can Tell Us About Urban Microclimates: A Case Study Around London's Olympic Park}
+      \field{volume}{32}
+      \field{year}{2025}
+      \field{pages}{e70112}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb https://doi.org/10.1002/met.70112
+      \endverb
+      \verb{eprint}
+      \verb https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/met.70112
+      \endverb
+      \verb{urlraw}
+      \verb https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.70112
+      \endverb
+      \verb{url}
+      \verb https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.70112
+      \endverb
+      \keyw{Aranet,crowdsourcing,East London,low-cost sensor,urban microclimate,weather sensor}
+    \endentry
     \entry{BOM_temps}{misc}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=da7ced9523c968f6ea99a4196a90b882}{%
@@ -907,6 +1969,34 @@
       \field{year}{2015}
       \field{pages}{235\bibrangedash 239}
       \range{pages}{5}
+    \endentry
+    \entry{BoM-guidelines}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f7efca6b2de29a3b94109d03ff4179af}{%
+           family={Cantford},
+           familyi={C\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{fullhash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{fullhashraw}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{bibnamehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authorbibnamehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authornamehash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authorfullhash}{f7efca6b2de29a3b94109d03ff4179af}
+      \strng{authorfullhashraw}{f7efca6b2de29a3b94109d03ff4179af}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.bom.gov.au/climate/cdo/about/observation_specification_2013.pdf}}
+      \field{title}{Guidelines for the Siting and Exposure of Meteorological Instruments}
+      \field{year}{1997}
     \endentry
     \entry{Adjusted-pops}{article}{}{}
       \name{author}{16}{}{%
@@ -1094,6 +2184,92 @@
       \verb https://www.science.org/doi/abs/10.1126/science.aad9837
       \endverb
     \endentry
+    \entry{Fast-urban-climate-model-GBI}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cb530a0a3e5e01e38a2a5955a79c08ae}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jixuan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23896ccc38c55d415a77ab80732c67e8}{%
+           family={Bach},
+           familyi={B\bibinitperiod},
+           given={Peter\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22a6e3940a1642dea88dd645b8417ed}{%
+           family={Nice},
+           familyi={N\bibinitperiod},
+           given={Kerry\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=105f3ba991b78ac47c930fd7bcbf017b}{%
+           family={Leit\~{a}o},
+           familyi={L\bibinitperiod},
+           given={Jo\~{a}o\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{828333597224aea1fc31e968ea5fbb1f}
+      \strng{fullhash}{67cda0880f38cce0a603284b26930a14}
+      \strng{fullhashraw}{67cda0880f38cce0a603284b26930a14}
+      \strng{bibnamehash}{67cda0880f38cce0a603284b26930a14}
+      \strng{authorbibnamehash}{67cda0880f38cce0a603284b26930a14}
+      \strng{authornamehash}{828333597224aea1fc31e968ea5fbb1f}
+      \strng{authorfullhash}{67cda0880f38cce0a603284b26930a14}
+      \strng{authorfullhashraw}{67cda0880f38cce0a603284b26930a14}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Problems caused by urban heat have prompted the exploration of urban greenery and blue spaces for heat mitigation. Various numerical models can simulate heat-related processes, but their use as support-tools to urban planners remains underexplored, particularly at the city-scale, due to high computational demand and complexity of such models. This study investigates the spatial relationships between urban heat, urban form and urban green and blue spaces with the fast climate model TARGET (The Air-temperature Response to Green/blue-infrastructure Evaluation Tool), which only requires minimal inputs of standard meteorological data, land cover and building geometry data. Using the City of Zurich as our case study, we: (i) validated the TARGET model against air temperature measurements from private sensor networks, (ii) performed a sensitivity analysis to identify key variables affecting urban heat, and (iii) investigated urban heat relationships with blue-green cover at locations frequented by pedestrians. Presence of urban green and blue spaces across the region shows potential for reducing local air temperatures by up to 5.2\x{00a0}\textdegree{}C (with urban forest). Investigating this relationship at different locations in the city revealed key districts that should potentially be targeted for reduction of pedestrian heat-impacts, due to their high pedestrian traffic, fewer green and blue spaces and high daytime air temperatures. Our results not only provide insights into the cooling effect of different amounts of green and blue features in the urban environment, but also demonstrates the application and integration potential of simplified models like TARGET to support the planning of more liveable future cities.}
+      \field{issn}{0048-9697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{Investigating the efficacy of a fast urban climate model for spatial planning of green and blue spaces for heat mitigation}
+      \field{volume}{955}
+      \field{year}{2024}
+      \field{pages}{176925}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scitotenv.2024.176925
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969724070827
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969724070827
+      \endverb
+      \keyw{Urban climate,Urban greenery,Green spaces,Blue spaces,Urban planning,Model-based planning-support,Crowd-sourced data,meteoblue,Netatmo,TARGET}
+    \endentry
+    \entry{Heat_stress_count}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2a1b3c0263d228c9deca9bd263bf35d}{%
+           family={{Climate Council}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{fullhash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{fullhashraw}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{bibnamehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authorbibnamehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authornamehash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authorfullhash}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \strng{authorfullhashraw}{e2a1b3c0263d228c9deca9bd263bf35d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{https://www.climatecouncil.org.au/resources/how-hot-will-your-neighbourhood-be-by-2050/}
+      \field{title}{How Hot Will Your Neighbourhood be by 2025}
+      \field{year}{2024}
+    \endentry
     \entry{US-income}{misc}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=684704b0c69ed5b5bac03d67ab1abf46}{%
@@ -1142,6 +2318,184 @@
       \verb{url}
       \verb http://www.nber.org/papers/w20750
       \endverb
+    \endentry
+    \entry{projection_of_heatwaves}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=5c4ae458e8f68c0d969e31b41bf48422}{%
+           family={Domeisen},
+           familyi={D\bibinitperiod},
+           given={Daniela\bibnamedelimb I\bibnamedelima V},
+           giveni={D\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee18e432c042ccfc8e7b3ccc71213db4}{%
+           family={Eltahir},
+           familyi={E\bibinitperiod},
+           given={Elfatih\bibnamedelimb A\bibnamedelima B},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d840934352c748f67ecab0ff9b40043}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Erich\bibnamedelima M},
+           giveni={E\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8e5a46d9becbfa810b4bfb23a3d16b7}{%
+           family={Knutti},
+           familyi={K\bibinitperiod},
+           given={Reto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11b8b9f8eccb3be9545ca963f64e6e71}{%
+           family={Perkins-Kirkpatrick},
+           familyi={P\bibinithyphendelim K\bibinitperiod},
+           given={Sarah\bibnamedelima E},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c23d11409632bcc45bef1f03349d81a}{%
+           family={Sch\"{a}r},
+           familyi={S\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f869e16515fbd69dfdcd3d6d851d527a}{%
+           family={Seneviratne},
+           familyi={S\bibinitperiod},
+           given={Sonia\bibnamedelima I},
+           giveni={S\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aa607344dd81c9b4c2463dc34e78ff6e}{%
+           family={Weisheimer},
+           familyi={W\bibinitperiod},
+           given={Antje},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9056a9cf3fb9cc1b8d4d88fe5655d7f7}{%
+           family={Wernli},
+           familyi={W\bibinitperiod},
+           given={Heini},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{8b1e72f3fb36ac9f8b2c18bc3a614b49}
+      \strng{fullhash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{fullhashraw}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{bibnamehash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{authorbibnamehash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{authornamehash}{8b1e72f3fb36ac9f8b2c18bc3a614b49}
+      \strng{authorfullhash}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \strng{authorfullhashraw}{fd6ee0f948b363d5e92aedb3a1fd8917}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nat. Rev. Earth Environ.}
+      \field{month}{12}
+      \field{number}{1}
+      \field{title}{Prediction and projection of heatwaves}
+      \field{volume}{4}
+      \field{year}{2022}
+      \field{pages}{36\bibrangedash 50}
+      \range{pages}{15}
+    \endentry
+    \entry{agricDPIRDWeather}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=29e29040ca3e97b2466f0538ad34b4b9}{%
+           family={{DPIRD}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Western Australian Government}%
+      }
+      \strng{namehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{fullhash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{fullhashraw}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{bibnamehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authorbibnamehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authornamehash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authorfullhash}{29e29040ca3e97b2466f0538ad34b4b9}
+      \strng{authorfullhashraw}{29e29040ca3e97b2466f0538ad34b4b9}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://weather.agric.wa.gov.au/map}}
+      \field{note}{[Accessed 28-04-2026]}
+      \field{title}{Weather Station Data Portal}
+      \field{year}{2026}
+    \endentry
+    \entry{LST_res}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8a7f2f5d5a9c1129818510492b914e6f}{%
+           family={Feng},
+           familyi={F\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f1b64c69bfc08d90547f91cbb1f8fbd5}{%
+           family={Foody},
+           familyi={F\bibinitperiod},
+           given={Giles},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6afa96cded7d19577af74ca49735b511}{%
+           family={Aplin},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59eeb0da6b19dc8b14db2339d73a271d}{%
+           family={Gosling},
+           familyi={G\bibinitperiod},
+           given={Simon\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{564d2ed32c1e26d62a386d9e0bad0bc9}
+      \strng{fullhash}{8c6581051a70215fecc34b0915087d94}
+      \strng{fullhashraw}{8c6581051a70215fecc34b0915087d94}
+      \strng{bibnamehash}{8c6581051a70215fecc34b0915087d94}
+      \strng{authorbibnamehash}{8c6581051a70215fecc34b0915087d94}
+      \strng{authornamehash}{564d2ed32c1e26d62a386d9e0bad0bc9}
+      \strng{authorfullhash}{8c6581051a70215fecc34b0915087d94}
+      \strng{authorfullhashraw}{8c6581051a70215fecc34b0915087d94}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Land surface temperature (LST) is an important environmental variable for urban studies such as those focused on the urban heat island (UHI). Though satellite-derived LST could be a useful complement to traditional LST data sources, the spatial resolution of the thermal sensors limits the utility of remotely sensed thermal data. Here, a thermal sharpening technique is proposed which could enhance the spatial resolution of satellite-derived LST based on super-resolution mapping (SRM) and super-resolution reconstruction (SRR). This method overcomes the limitation of traditional thermal image sharpeners that require fine spatial resolution images for resolution enhancement. Furthermore, environmental studies such as UHI modelling typically use statistical methods which require the input variables to be independent, which means the input LST and other indices should be uncorrelated. The proposed Super-Resolution Thermal Sharpener (SRTS) does not rely on any surface index, ensuring the independence of the derived LST to be as independent as possible from the other variables that UHI modelling often requires. To validate the SRTS, its performance is compared against that of four popular thermal sharpeners: the thermal sharpening algorithm (TsHARP), adjusted stratified stepwise regression method (Stepwise), pixel block intensity modulation (PBIM), and emissivity modulation (EM). The privilege of using the combination of SRR and SRM was also verified by comparing the accuracy of SRTS with sharpening process only based on SRM or SRR. The results show that the SRTS can enhance the spatial resolution of LST with a magnitude of accuracy that is equal or even superior to other thermal sharpeners, even without requiring fine spatial resolution input. This shows the potential of SRTS for application in conditions where only limited meteorological data sources are available yet where fine spatial resolution LST is desirable.}
+      \field{issn}{2210-6707}
+      \field{journaltitle}{Sustainable Cities and Society}
+      \field{title}{Enhancing the spatial resolution of satellite-derived land surface temperature mapping for urban areas}
+      \field{volume}{19}
+      \field{year}{2015}
+      \field{pages}{341\bibrangedash 348}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scs.2015.04.007
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670715000475
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210670715000475
+      \endverb
+      \keyw{Thermal sharpening,Urban heat island,Super-resolution mapping}
     \endentry
     \entry{temp-labour}{article}{}{}
       \name{author}{2}{}{%
@@ -1249,32 +2603,95 @@
       \endverb
       \keyw{Business And Economics; Climate change; Effects; Temperature; Cognitive ability; Studies; Weather; Human capital; Energy economics; Economic growth; Adaptation; Behavior; Estimates; Longitudinal studies; Economic theory; 10.3386/w21157; 6100:Human resource planning; 9130:Experimental/theoretical; 1540:Pollution control}
     \endentry
-    \entry{Environmental_determinism}{article}{}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=025b1c8864a7024e9eea1a2a09de1e2e}{%
-           family={Harrison},
-           familyi={H\bibinitperiod},
-           given={Gerald\bibnamedelima K.},
-           giveni={G\bibinitperiod\bibinitdelim K\bibinitperiod},
+    \entry{LUMPS}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6d532f1cc93dfd0b5d3bf1fbc024f3ce}{%
+           family={Grimmond},
+           familyi={G\bibinitperiod},
+           given={CSB},
+           giveni={C\bibinitperiod},
            givenun=0}}%
+        {{un=1,uniquepart=given,hash=f04a3a63fce9303ccf7cf0b6680f3b55}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={Timothy\bibnamedelima R},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=1}}%
       }
-      \strng{namehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{fullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{fullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{bibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authorbibnamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authornamehash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authorfullhash}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \strng{authorfullhashraw}{025b1c8864a7024e9eea1a2a09de1e2e}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{fullhash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{fullhashraw}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{bibnamehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authorbibnamehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authornamehash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authorfullhash}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \strng{authorfullhashraw}{10f08c6f1ce0a646d59c0f58482e52ef}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Environmental determinism}
-      \field{year}{2024}
+      \field{journaltitle}{Journal of Applied Meteorology}
+      \field{number}{7}
+      \field{title}{Turbulent heat fluxes in urban areas: Observations and a local-scale urban meteorological parameterization scheme (LUMPS)}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{pages}{792\bibrangedash 810}
+      \range{pages}{19}
+    \endentry
+    \entry{UHI_and_extremes}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ca2c149cdd360a6aba26cd14a492e069}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Johnny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7272634a24a13bbe9cb83eaaa6f4226}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Xuhui},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c6470d27b64b9ea1a2be699156e5dc4}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Keer},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{6cf0580646e5f876addbd74d5520db5f}
+      \strng{fullhash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{fullhashraw}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{bibnamehash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{authorbibnamehash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{authornamehash}{6cf0580646e5f876addbd74d5520db5f}
+      \strng{authorfullhash}{32d96cb99e10b215a2b3762148e5f84b}
+      \strng{authorfullhashraw}{32d96cb99e10b215a2b3762148e5f84b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Extreme heat waves (HWs), defined here as periods when daily maximum temperature exceeds the 98th percentile for three or more consecutive days, pose a significant threat to public health. The extreme heat risk is particularly relevant to urban residents due to the urban heat island (UHI) effect and its synergistic interactions with HWs in some cities. Previous research on the interactions between UHI and HWs has focused on a single city or region, and both positive and negative interactions have been reported. The global patterns of interactions between UHI and HWs across various climate backgrounds, as well as their underlying mechanisms, remain unclear. Here, we simulate the global urban heat island intensity (UHII) from 1985 to 2013 using the Community Land Model (CLM). By conducting a global-scale analysis of interactions between UHII and HWs, we diagnose their spatial and diurnal patterns across different regions and climate zones. To identify and explain the key contributors to the UHI-HW interactions, we employ machine learning models (CatBoost) and the SHapley Additive exPlanations (SHAP) framework to quantify the contributions of local energy flux, climate background, and land surface characteristics. UHI-HW interaction is quantified as the difference between UHII during heatwave (HW) days and non-heatwave (NHW) periods. We find that the UHI-HW interaction, which peaks at 6 AM local solar time (LT), is more positive at night than during the day. We identify net longwave radiation as a strong indicator of the interaction, while humidity emerges as a key driver, alongside contributions from sensible heat flux and wind speed. However, the influence of these factors varies across different K\"{o}ppen-Geiger climate zones. Our study provides new insights into the complex interaction between UHIs and heat waves, with implications for urban climate adaptation strategies in a warming world. The machine learning-based approach offers a novel method for attributing the spatial variability in UHI heat wave interactions to specific biophysical variables.}
+      \field{journaltitle}{Sci. Rep.}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Global spatiotemporal analysis of interactions between urban heat islands and extreme heat waves}
+      \field{volume}{16}
+      \field{year}{2026}
+      \keyw{Heat wave; Surface biophysical driver; Surface energy balance; Surface evaporation; Urban heat island}
     \endentry
     \entry{climate-on-conflict}{article}{}{}
       \name{author}{3}{}{%
@@ -1415,6 +2832,267 @@
       \field{booktitle}{News Bites - Private Companies}
       \field{title}{Twelve percent of homes in Australia affordable for the average first home buyer}
       \field{year}{2025}
+    \endentry
+    \entry{UHI}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=868513a33d62e48895489eec85300415}{%
+           family={Mohajerani},
+           familyi={M\bibinitperiod},
+           given={Abbas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1de8bfd9f6a70071828e649f923c1dd5}{%
+           family={Bakaric},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0438e958445d150ec52e8b3cd85bc8f4}{%
+           family={Jeffrey-Bailey},
+           familyi={J\bibinithyphendelim B\bibinitperiod},
+           given={Tristan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ff79411e87eb0624665dbe05e7a05fe8}
+      \strng{fullhash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{fullhashraw}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{bibnamehash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{authorbibnamehash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{authornamehash}{ff79411e87eb0624665dbe05e7a05fe8}
+      \strng{authorfullhash}{bb3855f37f99a1f4d424990bc24d617d}
+      \strng{authorfullhashraw}{bb3855f37f99a1f4d424990bc24d617d}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Urban Heat Island (UHI) is a phenomenon that affects many millions of people worldwide. The higher temperatures experienced in urban areas compared to the surrounding countryside has enormous consequences for the health and wellbeing of people living in cities. The increased use of manmade materials and increased anthropogenic heat production are the main causes of the UHI. This has led to the understanding that increased urbanisation is the primary cause of the urban heat island. The UHI effect also leads to increased energy needs that further contribute to the heating of our urban landscape, and the associated environmental and public health consequences. Pavements and roofs dominate the urban surface exposed to solar irradiation. This review article outlines the contribution that pavements make to the UHI effect and analyses localized and citywide mitigation strategies against the UHI. Asphalt Concrete (AC) is one of the most common pavement surfacing materials and is a significant contributor to the UHI. Densely graded AC has low albedo and high volumetric heat capacity, which results in surface temperatures reaching upwards of 60\x{00a0}\textdegree{}C on hot summer days. Cooling the surface of a pavement by utilizing cool pavements has been a consistent theme in recent literature. Cool pavements can be reflective or evaporative. However, the urban geometry and local atmospheric conditions should dictate whether or not these mitigation strategies should be used. Otherwise both of these pavements can actually increase the UHI effect. Increasing the prevalence of green spaces through the installation of street trees, city parks and rooftop gardens has consistently demonstrated a reduction in the UHI effect. Green spaces also increase the cooling effect derived from water and wind sources. This literature review demonstrates that UHI mitigation techniques are best used in combination with each other. As a result of the study, it was concluded that the current mitigation measures need development to make them relevant to various climates and throughout the year. There are also many possible sources of future study, and alternative measures for mitigation have been described, thereby providing scope for future research and development following this review.}
+      \field{issn}{0301-4797}
+      \field{journaltitle}{Journal of Environmental Management}
+      \field{title}{The urban heat island effect, its causes, and mitigation, with reference to the thermal properties of asphalt concrete}
+      \field{volume}{197}
+      \field{year}{2017}
+      \field{pages}{522\bibrangedash 538}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.jenvman.2017.03.095
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0301479717303201
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0301479717303201
+      \endverb
+      \keyw{Urban heat island,Asphalt concrete,Pavements,Urban heat island causes,Urban heat island consequences,Urban heat island mitigation measures}
+    \endentry
+    \entry{LST-TA}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=c8090e1be00d972ca6802e2b1a5411d8}{%
+           family={Naserikia},
+           familyi={N\bibinitperiod},
+           given={Marzie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c06230b6cdb499ff81651c5e92c4bcc}{%
+           family={Hart},
+           familyi={H\bibinitperiod},
+           given={Melissa\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a9857acf789bc17765ee0a4f20663698}{%
+           family={Nazarian},
+           familyi={N\bibinitperiod},
+           given={Negin},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39d22995826fd91bf9b6a6e2dd215f64}{%
+           family={Bechtel},
+           familyi={B\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b1b80dbd15d31385bbb9bdff04a342b}{%
+           family={Lipson},
+           familyi={L\bibinitperiod},
+           given={Mathew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f22a6e3940a1642dea88dd645b8417ed}{%
+           family={Nice},
+           familyi={N\bibinitperiod},
+           given={Kerry\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ee0073ed438d90a2c87c450e9684b9c}
+      \strng{fullhash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{fullhashraw}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{bibnamehash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{authorbibnamehash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{authornamehash}{0ee0073ed438d90a2c87c450e9684b9c}
+      \strng{authorfullhash}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \strng{authorfullhashraw}{5fb488ab2d0e8134aaa6b104c4895f48}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Due to the scarcity of air temperature (Ta) observations, urban heat studies often rely on satellite-derived Land Surface Temperature (LST) to characterise the near-surface thermal environment. However, there remains a lack of a quantitative understanding on how LST differs from Ta within urban areas and what are the controlling factors of their interaction. We use crowdsourced air temperature measurements in Sydney, Australia, combined with urban landscape data, Local Climate Zones (LCZ), high-resolution satellite imagery, and machine learning to explore the influence of urban form and fabric on the interaction between Ta and LST. Results show that LST and Ta have distinct spatiotemporal characteristics, and their relationship differs by season, ecological infrastructure, and building morphology. We found greater seasonal variability in LST compared to Ta, along with more pronounced intra-urban spatial variability in LST, particularly in warmer seasons. We also observed a greater temperature difference between LST and Ta in the built environment compared to the natural LCZs, especially during warm days. Natural LCZs (areas with mostly dense and scattered trees) showed stronger LST-Ta relationships compared to built areas. In particular, we observe that built areas with higher building density (where the heat vulnerability is likely more pronounced) show insignificant or negative relationships between LST- Ta in summer. Our results also indicate that surface cover, distance from the ocean, and seasonality significantly influence the distribution of hot and cold spots for LST and Ta. The spatial distribution for Ta hot spots does not always overlap with LST. We find that relying solely on LST as a direct proxy for the urban thermal environment is inappropriate, particularly in densely built-up areas and during warm seasons. These findings provide new perspectives on the relationship between surface and canopy temperatures and how these relate to urban form and fabric.}
+      \field{issn}{0048-9697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{title}{Land surface and air temperature dynamics: The role of urban form and seasonality}
+      \field{volume}{905}
+      \field{year}{2023}
+      \field{pages}{167306}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.scitotenv.2023.167306
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969723059338
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048969723059338
+      \endverb
+      \keyw{Air temperature,Land surface temperature,Crowdsourcing,Remote sensing,Land use data,Local climate zone,Urban heat}
+    \endentry
+    \entry{Climate-despair}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4925dd531bc32f7455112766cdfdd108}{%
+           family={Neale},
+           familyi={N\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b40752f1fe644845afda2ed9a8b1019f}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={Maura\bibnamedelimb M.\bibnamedelimi K.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ff40ca05ea4ae6401eedb9d6b69421f}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Jenny},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25d32843f3dfcd223453fe2480746c5c}{%
+           family={Converse},
+           familyi={C\bibinitperiod},
+           given={Benjamin\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \strng{namehash}{fd1122e25fe26b363815e62a473cb8eb}
+      \strng{fullhash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{fullhashraw}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{bibnamehash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{authorbibnamehash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{authornamehash}{fd1122e25fe26b363815e62a473cb8eb}
+      \strng{authorfullhash}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \strng{authorfullhashraw}{5ef1421a4315f58ec1f8c7cada8abfe6}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Climate despair---a sense of hopelessness about humanity\textquoteright{}s ability to pursue a sustainable future---is emerging as a psychosocial threat. Psychological science conceptualizes hopelessness as a cognitive schema characterized by negative expectancies. Climate hopelessness, then, may be conceptualized as a mental model that represents climate change as a massive problem with futile response options. It manifests in negative expectancies about the future. Here we show that learning about eco-innovations---novel climate-response options---can decrease climate hopelessness. Across 11 experiments (N\x{2009}=\x{2009}3224), we found that adults (mostly from the USA) reported lower climate hopelessness after viewing videos that depicted eco-innovations (such as a high-tech, net-zero-energy city) than they did in various control conditions, including those that were unrelated to climate (such as a no-video control) and those that depicted more familiar, schema-consistent climate responses (such as living in a rural, intentional community). This research provides causal evidence that thinking about novel climate responses can contribute to a more hopeful outlook, and it identifies technological innovation as one possible seed for such messaging.}
+      \field{isbn}{01650009}
+      \field{journaltitle}{Climatic Change}
+      \field{month}{12}
+      \field{note}{Copyright - {$\copyright$} The Author(s), under exclusive licence to Springer Nature B.V. 2023. Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law; Last updated - 2026-03-25; SubjectsTermNotLitGenreText - Environmental}
+      \field{number}{12}
+      \field{title}{Making people aware of eco-innovations can decrease climate despair}
+      \field{volume}{176}
+      \field{year}{2023}
+      \field{pages}{162}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.proquest.com/scholarly-journals/making-people-aware-eco-innovations-can-decrease/docview/2892416516/se-2
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/scholarly-journals/making-people-aware-eco-innovations-can-decrease/docview/2892416516/se-2
+      \endverb
+      \keyw{Meteorology; Climate; Climate change; Innovation; Cognitive ability; Climate models; Innovations; Net zero; Technological change; Clean technology; Environmental}
+    \endentry
+    \entry{netatmoWeathermap}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e79e953eedc962180e6dca02dfecaae7}{%
+           family={NETATMO},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{fullhash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{fullhashraw}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{bibnamehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authorbibnamehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authornamehash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authorfullhash}{e79e953eedc962180e6dca02dfecaae7}
+      \strng{authorfullhashraw}{e79e953eedc962180e6dca02dfecaae7}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://weathermap.netatmo.com/?stationid=70:ee:50:37:1e:18\&zoom=12.560861090870313}}
+      \field{note}{[Accessed 28-04-2026]}
+      \field{title}{{W}eathermap --- weathermap.netatmo.com}
+      \field{year}{2026}
+    \endentry
+    \entry{urban-canopy-mixing}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=b137bc8a542aaa54a7b55ff8a729ff46}{%
+           family={Oke},
+           familyi={O\bibinitperiod},
+           given={T.R.},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{fullhash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{fullhashraw}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{bibnamehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authorbibnamehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authornamehash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authorfullhash}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \strng{authorfullhashraw}{b137bc8a542aaa54a7b55ff8a729ff46}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Planning is always involved in making choices between alternatives. In the case of designing for street climate the objectives may be mutually exclusive. For example, whilst open geometry is conducive to air pollution dispersion and solar access, a more densely clustered arrangement is favourable for shelter and energy conservation. This dilemma is investigated by reviewing the results of recent urban canyon field studies and of scale and mathematical modelling. By concentrating on quantifiable relations it appears that it may be possible to find a range of canyon geometries that are compatible with the apparently conflicting design objectives of mid-latitude cities. If this is correct, traditional European urban forms are climatically more favourable than more modern, especially North American, ones.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{number}{1}
+      \field{title}{Street design and urban canopy layer climate}
+      \field{volume}{11}
+      \field{year}{1988}
+      \field{pages}{103\bibrangedash 113}
+      \range{pages}{11}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0378-7788(88)90026-6
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/0378778888900266
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/0378778888900266
+      \endverb
     \endentry
     \entry{perth_market_growth}{online}{}{}
       \name{author}{1}{}{%
